@@ -1,0 +1,1006 @@
+order_id,order_date,customer_id,product_name,category,quantity,price,discount,region,payment_method,status
+ORD10001,2025-02-01,CUST1175,Vacuum Cleaner,Home & Kitchen,3,13778.0,0.2,South,UPI,Returned
+ORD10002,2025-11-03,CUST1113,Vacuum Cleaner,Home & Kitchen,3,20722.0,0.0,East,Credit Card,Cancelled
+ORD10003,2025-06-14,CUST1057,Jacket,Clothing,3,6079.0,0.1,North,Debit Card,Delivered
+ORD10004,2025-09-13,CUST1089,Microwave,Home & Kitchen,1,13580.0,0.15,North,Cash on Delivery,Cancelled
+ORD10005,2025-07-01,CUST1011,Vacuum Cleaner,Home & Kitchen,2,8892.0,0.1,East,UPI,Delivered
+ORD10006,2025-11-27,CUST1093,Microwave,Home & Kitchen,3,17611.0,0.05,North,Debit Card,Delivered
+ORD10007,2025-07-26,CUST1168,Monitor,Electronics,2,17941.0,0.05,Central,Debit Card,Pending
+ORD10008,2025-06-08,CUST1202,Blender,Home & Kitchen,4,3530.0,0.2,Central,Credit Card,Delivered
+ORD10009,2025-10-21,CUST1002,Vacuum Cleaner,Home & Kitchen,5,7795.0,0.0,West,Net Banking,Delivered
+ORD10010,2025-07-04,CUST1143,Microwave,Home & Kitchen,3,15369.0,0.1,North,UPI,Delivered
+ORD10011,2025-01-29,CUST1192,Vacuum Cleaner,Home & Kitchen,5,14422.0,0.1,East,Net Banking,Delivered
+ORD10012,2025-05-07,CUST1110,Sneakers,Clothing,4,3779.0,0.0,Central,Credit Card,Delivered
+ORD10013,2025-11-09,CUST1071,Fiction Novel,Books,5,339.0,0.0,Central,Credit Card,Delivered
+ORD10014,2025-05-30,CUST1102,Jacket,Clothing,5,5877.0,0.15,East,Cash on Delivery,Delivered
+ORD10015,2025-09-12,CUST1116,Laptop,Electronics,4,39952.0,0.15,West,UPI,Delivered
+ORD10016,2025-03-02,CUST1096,Headphones,Electronics,3,8599.0,0.1,South,Credit Card,Delivered
+ORD10017,2025-05-04,CUST1241,Coffee Table,Furniture,2,2701.0,0.0,South,Cash on Delivery,Delivered
+ORD10018,2025-04-06,CUST1180,Sofa,Furniture,2,63459.0,0.15,West,Debit Card,Delivered
+ORD10019,2025-09-14,CUST1051,Headphones,Electronics,1,10910.0,0.1,West,Credit Card,Delivered
+ORD10020,2025-06-29,CUST1180,Headphones,Electronics,1,10394.0,0.15,West,Debit Card,Delivered
+ORD10021,2025-10-04,CUST1104,T-Shirt,Clothing,4,1310.0,0.0,West,UPI,Delivered
+ORD10022,2025-03-05,CUST1147,Sofa,Furniture,4,22226.0,0.0,West,UPI,Cancelled
+ORD10023,2025-04-18,CUST1006,Jacket,Clothing,4,3604.0,0.1,North,Cash on Delivery,Delivered
+ORD10024,2025-09-02,CUST1123,Blender,Home & Kitchen,2,2037.0,0.1,East,Cash on Delivery,Delivered
+ORD10025,2025-07-18,CUST1131,Dress,Clothing,5,2481.0,0.05,Central,Debit Card,Delivered
+ORD10026,2025-04-21,CUST1139,Blender,Home & Kitchen,3,7325.0,0.0,South,UPI,Delivered
+ORD10027,2025-12-09,CUST1193,Desk,Furniture,4,17848.0,0.15,South,UPI,Cancelled
+ORD10028,2025-07-19,CUST1093,Smartphone,Electronics,1,14169.0,0.1,South,Cash on Delivery,Pending
+ORD10029,2025-08-15,CUST1129,Desk,Furniture,4,24011.0,0.05,Central,Credit Card,Cancelled
+ORD10030,2025-12-20,CUST1249,Headphones,Electronics,2,1303.0,0.1,North,Cash on Delivery,Delivered
+ORD10031,2025-06-21,CUST1079,Programming Book,Books,1,1657.0,0.1,North,Net Banking,Delivered
+ORD10032,2025-05-19,CUST1066,Coffee Table,Furniture,4,2755.0,0.15,North,Cash on Delivery,Delivered
+ORD10033,2025-09-30,CUST1045,Laptop,Electronics,5,80712.0,0.0,South,Debit Card,Pending
+ORD10034,2025-04-27,CUST1243,Smartphone,Electronics,5,29999.0,0.15,East,Debit Card,Delivered
+ORD10035,2025-01-07,CUST1170,Laptop,Electronics,2,47631.0,0.0,Central,UPI,Delivered
+ORD10036,2025-11-12,CUST1202,Vacuum Cleaner,Home & Kitchen,3,16622.0,0.0,North,Net Banking,Delivered
+ORD10037,2025-01-30,CUST1100,Headphones,Electronics,3,2186.0,0.2,Central,Credit Card,Delivered
+ORD10038,2025-12-17,CUST1232,Microwave,Home & Kitchen,3,17468.0,0.05,East,UPI,Delivered
+ORD10039,2025-10-01,CUST1105,Dress,Clothing,4,1708.0,0.0,North,Cash on Delivery,Delivered
+ORD10040,2025-08-20,CUST1197,Cookbook,Books,3,1024.0,0.1,Central,UPI,Delivered
+ORD10041,2025-05-02,CUST1133,Microwave,Home & Kitchen,3,15562.0,0.05,West,Net Banking,Pending
+ORD10042,2025-12-05,CUST1107,Jeans,Clothing,1,2031.0,0.05,North,Net Banking,Pending
+ORD10043,2025-12-30,CUST1187,Jacket,Clothing,2,3089.0,0.05,Central,Cash on Delivery,Delivered
+ORD10044,2025-03-12,CUST1207,Headphones,Electronics,2,7458.0,0.0,South,Credit Card,Delivered
+ORD10045,2025-07-30,CUST1039,Biography,Books,1,357.0,0.05,East,UPI,Delivered
+ORD10046,2025-06-06,CUST1148,Laptop,Electronics,5,44605.0,0.0,East,Net Banking,Delivered
+ORD10047,2025-10-17,CUST1213,Coffee Table,Furniture,4,6036.0,0.2,East,UPI,Delivered
+ORD10048,2025-12-13,CUST1105,Smartphone,Electronics,4,26464.0,0.1,South,UPI,Delivered
+ORD10049,2025-02-08,CUST1013,Dress,Clothing,1,1688.0,0.2,East,Cash on Delivery,Delivered
+ORD10050,2025-04-28,CUST1201,Air Fryer,Home & Kitchen,2,13930.0,0.2,East,Net Banking,Delivered
+ORD10051,2025-04-28,CUST1129,Vacuum Cleaner,Home & Kitchen,5,7691.0,0.1,Central,Cash on Delivery,Delivered
+ORD10052,2025-01-23,CUST1035,Sofa,Furniture,2,46978.0,0.05,East,Debit Card,Delivered
+ORD10053,2025-09-26,CUST1082,Smartphone,Electronics,3,33316.0,0.05,East,Credit Card,Delivered
+ORD10054,2025-11-08,CUST1121,Sofa,Furniture,4,62443.0,0.2,West,Credit Card,Delivered
+ORD10055,2025-07-21,CUST1134,Cookware Set,Home & Kitchen,2,6499.0,0.2,West,Net Banking,Delivered
+ORD10056,2025-07-03,CUST1216,Blender,Home & Kitchen,3,2815.0,0.15,Central,UPI,Delivered
+ORD10057,2025-07-10,CUST1234,Monitor,Electronics,3,23692.0,0.0,West,UPI,Cancelled
+ORD10058,2025-12-30,CUST1199,Cookware Set,Home & Kitchen,3,6075.0,0.15,Central,Cash on Delivery,Delivered
+ORD10059,2025-03-03,CUST1043,T-Shirt,Clothing,3,532.0,0.15,North,Debit Card,Delivered
+ORD10060,2025-12-02,CUST1200,Sneakers,Clothing,4,5420.0,0.15,East,Debit Card,Delivered
+ORD10061,2025-09-21,CUST1022,Comics,Books,4,215.0,0.0,East,Net Banking,Delivered
+ORD10062,2025-09-27,CUST1225,Microwave,Home & Kitchen,4,14055.0,0.05,Central,Net Banking,Delivered
+ORD10063,2025-12-17,CUST1037,Bookshelf,Furniture,2,5487.0,0.0,North,Cash on Delivery,Delivered
+ORD10064,2025-12-13,CUST1235,Office Chair,Furniture,1,14081.0,0.1,South,Net Banking,Delivered
+ORD10065,2025-11-05,CUST1238,Sofa,Furniture,1,64332.0,0.15,East,UPI,Pending
+ORD10066,2025-01-12,CUST1172,T-Shirt,Clothing,3,569.0,0.1,East,UPI,Delivered
+ORD10067,2025-04-26,CUST1111,Cookware Set,Home & Kitchen,5,3926.0,0.1,North,Credit Card,Cancelled
+ORD10068,2025-01-17,CUST1220,Cookware Set,Home & Kitchen,2,2596.0,0.2,West,Credit Card,Pending
+ORD10069,2025-02-19,CUST1163,Monitor,Electronics,1,29980.0,0.15,West,UPI,Cancelled
+ORD10070,2025-11-08,CUST1195,Smartphone,Electronics,3,25968.0,0.0,Central,UPI,Cancelled
+ORD10071,2025-02-27,CUST1013,Air Fryer,Home & Kitchen,1,4397.0,0.0,Central,Net Banking,Pending
+ORD10072,2025-09-02,CUST1201,Smartphone,Electronics,2,61266.0,0.0,Central,Cash on Delivery,Delivered
+ORD10073,2025-06-16,,Air Fryer,Home & Kitchen,3,13218.0,0.0,North,UPI,Delivered
+ORD10074,2025-06-13,CUST1039,Cookware Set,Home & Kitchen,1,6336.0,0.2,Central,Net Banking,Delivered
+ORD10075,2025-10-01,CUST1153,Office Chair,Furniture,3,13794.0,0.2,East,UPI,Delivered
+ORD10076,2025-05-31,CUST1044,Smartphone,Electronics,3,63281.0,0.15,South,UPI,Delivered
+ORD10077,2025-04-03,CUST1160,Biography,Books,3,548.0,0.15,Central,Debit Card,Delivered
+ORD10078,2025-07-16,CUST1175,Biography,Books,3,446.0,0.1,South,Net Banking,Cancelled
+ORD10079,2025-11-30,CUST1119,Headphones,Electronics,4,6494.0,0.1,North,UPI,Delivered
+ORD10080,2025-10-14,CUST1153,Office Chair,Furniture,4,7918.0,0.1,East,Net Banking,Delivered
+ORD10081,2025-08-08,CUST1080,Coffee Table,Furniture,5,3741.0,0.1,Central,UPI,Delivered
+ORD10082,2025-05-09,CUST1142,T-Shirt,Clothing,1,715.0,0.1,East,Net Banking,Delivered
+ORD10083,2025-05-06,CUST1138,Vacuum Cleaner,Home & Kitchen,2,11324.0,0.15,North,Debit Card,Delivered
+ORD10084,2025-07-23,CUST1222,Coffee Table,Furniture,5,6102.0,0.15,North,Cash on Delivery,Delivered
+ORD10085,2025-07-09,CUST1210,Jeans,Clothing,2,3000.0,0.05,South,Debit Card,Delivered
+ORD10086,2025-01-29,CUST1071,Keyboard,Electronics,5,4289.0,0.0,East,Credit Card,Delivered
+ORD10087,2025-06-09,CUST1207,Office Chair,Furniture,5,14269.0,0.0,West,Cash on Delivery,Delivered
+ORD10088,2025-07-05,CUST1092,Smartphone,Electronics,4,46849.0,0.0,East,Cash on Delivery,Returned
+ORD10089,2025-02-22,CUST1177,Cookware Set,Home & Kitchen,4,4039.0,0.15,West,Credit Card,Delivered
+ORD10090,2025-06-20,CUST1041,Monitor,Electronics,4,11808.0,0.1,West,UPI,Pending
+ORD10091,2025-10-20,CUST1248,Comics,Books,2,456.0,0.2,West,UPI,Delivered
+ORD10092,2025-01-16,CUST1109,Desk,Furniture,5,5681.0,0.15,East,Debit Card,Delivered
+ORD10093,2025-08-19,CUST1059,Smartphone,Electronics,5,64612.0,0.0,North,Credit Card,Delivered
+ORD10094,2025-04-09,CUST1061,Sneakers,Clothing,1,5200.0,0.0,Central,Cash on Delivery,Delivered
+ORD10095,2025-08-13,CUST1015,Jacket,Clothing,4,5285.0,0.15,West,Credit Card,Delivered
+ORD10096,2025-07-13,CUST1193,Coffee Table,Furniture,2,8756.0,,West,Cash on Delivery,Delivered
+ORD10097,2025-05-21,CUST1086,Programming Book,Books,1,1243.0,0.2,East,Debit Card,Delivered
+ORD10098,2025-08-18,CUST1158,Laptop,Electronics,5,56920.0,0.2,South,UPI,Delivered
+ORD10099,2025-09-10,CUST1113,Smartphone,Electronics,4,13439.0,0.2,East,Credit Card,Delivered
+ORD10100,2025-07-11,CUST1159,Headphones,Electronics,1,3914.0,0.15,West,Cash on Delivery,Delivered
+ORD10101,2025-07-08,CUST1181,Dress,Clothing,4,4855.0,0.2,South,Cash on Delivery,Pending
+ORD10102,2025-10-23,CUST1111,Fiction Novel,Books,3,267.0,0.15,West,Debit Card,Delivered
+ORD10103,2025-10-27,CUST1184,Fiction Novel,Books,1,791.0,0.05,Central,Net Banking,Delivered
+ORD10104,2025-12-18,CUST1123,Smartphone,Electronics,3,14374.0,0.15,Central,Cash on Delivery,Delivered
+ORD10105,2025-08-26,CUST1022,Programming Book,Books,1,1006.0,0.15,South,Debit Card,Pending
+ORD10106,2025-01-21,CUST1094,Biography,Books,2,785.0,0.0,Central,UPI,Delivered
+ORD10107,2025-01-03,CUST1217,Vacuum Cleaner,Home & Kitchen,4,19265.0,0.15,West,Net Banking,Pending
+ORD10108,2025-03-27,CUST1215,Keyboard,Electronics,1,1555.0,0.15,East,UPI,Delivered
+ORD10109,2025-09-13,CUST1224,Cookware Set,Home & Kitchen,4,2013.0,0.1,West,Net Banking,Delivered
+ORD10110,2025-11-26,CUST1075,Biography,Books,4,476.0,0.2,West,Debit Card,Delivered
+ORD10111,2025-09-05,CUST1022,Bookshelf,Furniture,5,10923.0,0.0,West,Credit Card,Delivered
+ORD10112,2025-10-10,CUST1102,Cookware Set,Home & Kitchen,4,8991.0,0.05,East,UPI,Delivered
+ORD10113,2025-01-23,CUST1099,Comics,Books,4,536.0,0.1,East,Cash on Delivery,Delivered
+ORD10114,2025-05-09,CUST1051,Laptop,Electronics,1,55096.0,0.0,East,UPI,Delivered
+ORD10115,2025-11-20,CUST1240,Dress,Clothing,3,2848.0,0.1,Central,Net Banking,Delivered
+ORD10116,2025-07-24,CUST1082,Desk,Furniture,2,22837.0,0.05,Central,Cash on Delivery,Delivered
+ORD10117,2025-01-10,CUST1075,Microwave,Home & Kitchen,4,13089.0,0.15,Central,Credit Card,Delivered
+ORD10118,2025-01-23,CUST1141,Smartphone,Electronics,1,62711.0,0.05,South,Net Banking,Pending
+ORD10119,2025-08-03,,Dress,Clothing,5,3486.0,0.2,South,Cash on Delivery,Cancelled
+ORD10120,2025-04-27,CUST1026,Cookware Set,Home & Kitchen,1,3133.0,0.1,East,Net Banking,Cancelled
+ORD10121,2025-12-09,CUST1240,Dress,Clothing,1,3278.0,0.0,,UPI,Delivered
+ORD10122,2025-04-07,CUST1130,Headphones,Electronics,5,1534.0,0.1,West,Credit Card,Delivered
+ORD10123,2025-11-24,CUST1175,Monitor,Electronics,4,15843.0,0.0,East,Credit Card,Delivered
+ORD10124,2025-04-16,CUST1029,Desk,Furniture,1,12749.0,0.0,East,Cash on Delivery,Delivered
+ORD10125,2025-05-30,CUST1108,Jeans,Clothing,1,2223.0,0.05,East,Net Banking,Pending
+ORD10126,2025-11-30,CUST1120,Desk,Furniture,3,10772.0,0.05,Central,Net Banking,Delivered
+ORD10127,2025-06-30,CUST1116,Desk,Furniture,3,23539.0,0.0,Central,Net Banking,Delivered
+ORD10128,2025-02-02,CUST1003,Smartphone,Electronics,1,20016.0,0.2,Central,UPI,Delivered
+ORD10129,2025-02-02,CUST1143,Monitor,Electronics,3,21264.0,0.05,South,Debit Card,Pending
+ORD10130,2025-06-17,CUST1041,Smartphone,Electronics,3,61496.0,0.15,Central,Net Banking,Pending
+ORD10131,2025-12-20,CUST1151,Desk,Furniture,3,23295.0,0.1,Central,Cash on Delivery,Delivered
+ORD10132,2025-02-11,CUST1151,Blender,Home & Kitchen,3,3569.0,0.15,South,Credit Card,Delivered
+ORD10133,2025-09-26,CUST1087,Coffee Table,Furniture,5,2624.0,0.0,South,UPI,Delivered
+ORD10134,2025-10-29,CUST1080,Air Fryer,Home & Kitchen,2,11789.0,0.15,North,Cash on Delivery,Delivered
+ORD10135,2025-01-22,CUST1044,Monitor,Electronics,4,10305.0,0.15,West,Debit Card,Returned
+ORD10136,2025-07-30,CUST1147,Keyboard,Electronics,3,574.0,0.2,South,UPI,Cancelled
+ORD10137,2025-03-08,CUST1069,Biography,Books,1,599.0,0.15,West,UPI,Delivered
+ORD10138,2025-03-11,CUST1005,Desk,Furniture,5,17936.0,0.2,North,Debit Card,Delivered
+ORD10139,2025-03-09,CUST1139,Comics,Books,4,289.0,0.15,East,Credit Card,Delivered
+ORD10140,2025-09-19,CUST1246,Vacuum Cleaner,Home & Kitchen,2,16339.0,0.15,North,Debit Card,Delivered
+ORD10141,2025-06-06,CUST1102,Laptop,Electronics,2,78782.0,0.1,Central,UPI,Cancelled
+ORD10142,2025-05-12,CUST1241,Office Chair,Furniture,3,13398.0,0.0,South,UPI,Delivered
+ORD10143,2025-05-06,CUST1118,Comics,Books,2,652.0,0.05,Central,Net Banking,Pending
+ORD10144,2025-08-27,CUST1183,Bookshelf,Furniture,1,7412.0,0.15,East,Net Banking,Delivered
+ORD10145,2025-11-11,CUST1200,Monitor,Electronics,4,27792.0,0.2,East,UPI,Delivered
+ORD10146,2025-12-27,CUST1095,Cookware Set,Home & Kitchen,2,1966.0,0.2,Central,Net Banking,Cancelled
+ORD10147,2025-07-28,CUST1146,Sofa,Furniture,2,30956.0,0.15,South,Debit Card,Delivered
+ORD10148,2025-05-04,CUST1095,Biography,Books,1,554.0,0.0,South,Credit Card,Delivered
+ORD10149,2025-01-09,CUST1239,Smartphone,Electronics,1,51705.0,0.05,West,Credit Card,Delivered
+ORD10150,2025-06-24,CUST1051,Cookware Set,Home & Kitchen,2,8144.0,0.05,Central,UPI,Delivered
+ORD10151,2025-01-04,CUST1121,Jacket,Clothing,1,3149.0,0.0,North,Cash on Delivery,Delivered
+ORD10152,2025-02-19,CUST1074,Dress,Clothing,2,1731.0,0.05,South,Net Banking,Pending
+ORD10153,2025-05-10,CUST1239,Fiction Novel,Books,4,791.0,0.2,East,UPI,Delivered
+ORD10154,2025-10-26,CUST1212,Desk,Furniture,3,15611.0,0.0,West,Net Banking,Delivered
+ORD10155,2025-02-08,CUST1213,Laptop,Electronics,3,48929.0,0.0,South,Debit Card,Delivered
+ORD10156,2025-02-10,CUST1191,Coffee Table,Furniture,5,4970.0,0.1,North,Net Banking,Delivered
+ORD10157,2025-09-23,,Biography,Books,2,328.0,0.2,South,Credit Card,Pending
+ORD10158,2025-03-09,CUST1062,Monitor,Electronics,1,16512.0,0.1,Central,Net Banking,Pending
+ORD10159,2025-09-20,CUST1063,Cookbook,Books,3,605.0,0.1,South,Credit Card,Delivered
+ORD10160,2025-04-30,CUST1130,Fiction Novel,Books,1,733.0,0.15,South,Debit Card,Delivered
+ORD10161,2025-05-12,CUST1032,Dress,Clothing,2,3286.0,0.0,North,Cash on Delivery,Delivered
+ORD10162,2025-12-17,CUST1052,Fiction Novel,Books,2,297.0,0.1,North,Credit Card,Delivered
+ORD10163,2025-12-01,CUST1153,Laptop,Electronics,1,85427.0,0.05,North,Debit Card,Delivered
+ORD10164,2025-02-22,CUST1205,Sneakers,Clothing,5,2904.0,0.2,Central,Net Banking,Delivered
+ORD10165,2025-07-24,CUST1013,Keyboard,Electronics,4,4643.0,0.05,Central,Credit Card,Pending
+ORD10166,2025-10-29,CUST1053,T-Shirt,Clothing,4,1451.0,0.15,South,Cash on Delivery,Delivered
+ORD10167,2025-04-13,CUST1071,Sneakers,Clothing,3,1517.0,0.2,Central,UPI,Delivered
+ORD10168,2025-07-01,CUST1099,Headphones,Electronics,4,2506.0,0.15,North,Cash on Delivery,Delivered
+ORD10169,2025-08-29,CUST1150,Vacuum Cleaner,Home & Kitchen,2,14222.0,0.15,North,Debit Card,Cancelled
+ORD10170,2025-12-26,CUST1212,Bookshelf,Furniture,1,4183.0,0.15,,UPI,Delivered
+ORD10171,2025-06-15,CUST1133,Cookbook,Books,2,975.0,0.2,West,Net Banking,Delivered
+ORD10172,2025-05-24,CUST1101,Cookbook,Books,4,630.0,0.15,Central,Debit Card,Delivered
+ORD10173,2025-03-11,CUST1162,Sneakers,Clothing,2,8304.0,0.1,East,Credit Card,Delivered
+ORD10174,2025-04-29,CUST1167,Jeans,Clothing,5,1313.0,0.0,North,Net Banking,Delivered
+ORD10175,2025-03-01,CUST1195,Keyboard,Electronics,5,1969.0,0.0,Central,Cash on Delivery,Delivered
+ORD10176,2025-10-07,CUST1035,Blender,Home & Kitchen,5,2340.0,0.05,South,Credit Card,Delivered
+ORD10177,2025-07-19,CUST1176,Cookbook,Books,5,482.0,0.1,West,Cash on Delivery,Delivered
+ORD10178,2025-09-20,CUST1245,Desk,Furniture,1,17135.0,0.05,East,Credit Card,Delivered
+ORD10179,2025-12-18,CUST1153,Headphones,Electronics,4,5281.0,0.2,South,Debit Card,Cancelled
+ORD10180,2025-09-15,CUST1123,Programming Book,Books,5,885.0,0.1,East,Net Banking,Delivered
+ORD10181,2025-04-26,CUST1211,Headphones,Electronics,5,11022.0,0.2,Central,Cash on Delivery,Delivered
+ORD10182,2025-08-17,CUST1115,Microwave,Home & Kitchen,1,15151.0,0.1,West,Credit Card,Delivered
+ORD10183,2025-05-13,CUST1103,Desk,Furniture,3,9414.0,0.1,South,Credit Card,Pending
+ORD10184,2025-01-15,CUST1085,Biography,Books,2,359.0,0.0,East,Net Banking,Pending
+ORD10185,2025-02-12,CUST1098,Monitor,Electronics,4,24810.0,0.0,East,Cash on Delivery,Delivered
+ORD10186,2025-11-17,CUST1234,Laptop,Electronics,3,58254.0,0.15,South,Cash on Delivery,Delivered
+ORD10187,2025-06-23,CUST1222,Headphones,Electronics,2,9657.0,0.05,South,Net Banking,Delivered
+ORD10188,2025-07-04,CUST1139,Cookware Set,Home & Kitchen,1,3069.0,0.1,South,Debit Card,Delivered
+ORD10189,2025-01-12,CUST1130,Blender,Home & Kitchen,1,7949.0,0.2,North,UPI,Delivered
+ORD10190,2025-03-06,CUST1107,Programming Book,Books,2,880.0,0.1,South,UPI,Delivered
+ORD10191,2025-11-27,CUST1206,Desk,Furniture,4,20537.0,0.2,Central,Debit Card,Delivered
+ORD10192,2025-03-23,CUST1224,Vacuum Cleaner,Home & Kitchen,1,21028.0,0.1,South,UPI,Pending
+ORD10193,2025-04-13,CUST1017,Smartphone,Electronics,2,20904.0,0.1,East,UPI,Delivered
+ORD10194,2025-05-04,CUST1164,Dress,Clothing,1,4918.0,0.0,West,Cash on Delivery,Delivered
+ORD10195,2025-07-21,CUST1135,Laptop,Electronics,2,82344.0,0.2,East,Cash on Delivery,Delivered
+ORD10196,2025-04-30,CUST1189,Bookshelf,Furniture,3,9509.0,0.05,South,Debit Card,Delivered
+ORD10197,2025-08-17,CUST1053,Jeans,Clothing,3,1919.0,0.05,West,Net Banking,Delivered
+ORD10198,2025-01-17,CUST1206,Smartphone,Electronics,1,22225.0,0.0,North,Credit Card,Returned
+ORD10199,2025-12-02,CUST1099,Keyboard,Electronics,1,3441.0,0.1,North,Cash on Delivery,Returned
+ORD10200,2025-06-22,CUST1165,Biography,Books,4,375.0,0.05,Central,Credit Card,Delivered
+ORD10201,2025-05-16,CUST1178,Sneakers,Clothing,2,5632.0,0.2,East,UPI,Delivered
+ORD10202,2025-04-16,CUST1105,Jeans,Clothing,4,2215.0,0.05,South,Net Banking,Pending
+ORD10203,2025-02-18,CUST1131,T-Shirt,Clothing,4,939.0,0.05,North,Credit Card,Delivered
+ORD10204,2025-01-04,CUST1054,Air Fryer,Home & Kitchen,2,4726.0,0.0,East,Cash on Delivery,Delivered
+ORD10205,2025-10-30,CUST1120,Keyboard,Electronics,1,4507.0,0.1,Central,Cash on Delivery,Delivered
+ORD10206,2025-04-20,CUST1170,Headphones,Electronics,3,7361.0,0.0,North,Credit Card,Delivered
+ORD10207,2025-01-29,CUST1034,Laptop,Electronics,3,58250.0,0.0,West,Cash on Delivery,Delivered
+ORD10208,2025-05-05,CUST1067,Desk,Furniture,3,5160.0,0.05,Central,Net Banking,Delivered
+ORD10209,2025-10-02,CUST1027,Fiction Novel,Books,4,758.0,0.0,North,UPI,Delivered
+ORD10210,2025-02-07,CUST1205,Laptop,Electronics,5,81881.0,0.15,West,Debit Card,Returned
+ORD10211,2025-06-20,CUST1238,Smartphone,Electronics,1,35273.0,0.05,North,Debit Card,Pending
+ORD10212,2025-07-13,CUST1124,Keyboard,Electronics,2,4904.0,0.1,South,Cash on Delivery,Delivered
+ORD10213,2025-08-27,CUST1081,Sofa,Furniture,3,44238.0,0.0,South,UPI,Delivered
+ORD10214,2025-09-01,CUST1103,Fiction Novel,Books,3,553.0,0.05,East,Debit Card,Delivered
+ORD10215,2025-10-10,CUST1083,Comics,Books,4,663.0,0.05,South,Debit Card,Delivered
+ORD10216,2025-05-15,CUST1081,Jeans,Clothing,2,2647.0,0.1,Central,Credit Card,Delivered
+ORD10217,2025-12-20,CUST1098,Smartphone,Electronics,3,21631.0,0.15,Central,Credit Card,Delivered
+ORD10218,2025-12-21,CUST1232,Cookware Set,Home & Kitchen,3,3653.0,0.2,North,Debit Card,Delivered
+ORD10219,2025-02-07,CUST1231,Monitor,Electronics,5,28747.0,0.05,Central,Debit Card,Delivered
+ORD10220,2025-01-31,CUST1007,Keyboard,Electronics,5,3562.0,0.1,South,Net Banking,Pending
+ORD10221,2025-07-27,CUST1197,Jeans,Clothing,3,2164.0,0.0,Central,Credit Card,Pending
+ORD10222,2025-09-03,CUST1041,Coffee Table,Furniture,1,6521.0,0.05,East,Net Banking,Delivered
+ORD10223,2025-10-17,CUST1214,Jeans,Clothing,1,3414.0,0.2,Central,UPI,Delivered
+ORD10224,2025-05-23,CUST1203,Biography,Books,1,493.0,0.0,East,Debit Card,Delivered
+ORD10225,2025-12-08,CUST1093,Cookbook,Books,5,847.0,0.1,North,Debit Card,Delivered
+ORD10226,2025-09-15,CUST1076,Microwave,Home & Kitchen,1,16053.0,0.05,West,Cash on Delivery,Delivered
+ORD10227,2025-07-31,CUST1041,Jacket,Clothing,3,4211.0,0.15,West,Net Banking,Delivered
+ORD10228,2025-12-17,CUST1131,T-Shirt,Clothing,3,455.0,0.1,Central,Credit Card,Delivered
+ORD10229,2025-07-06,CUST1237,Headphones,Electronics,1,4654.0,0.0,North,Debit Card,Pending
+ORD10230,2025-12-28,CUST1218,Programming Book,Books,3,559.0,0.15,Central,Net Banking,Delivered
+ORD10231,2025-05-15,CUST1249,Jeans,Clothing,2,1088.0,0.1,East,Cash on Delivery,Delivered
+ORD10232,2025-05-22,CUST1012,Cookware Set,Home & Kitchen,3,3973.0,0.2,South,Cash on Delivery,Pending
+ORD10233,2025-12-08,CUST1039,Smartphone,Electronics,1,15469.0,0.2,West,Debit Card,Cancelled
+ORD10234,2025-12-28,CUST1016,Sneakers,Clothing,4,4479.0,0.1,North,Cash on Delivery,Delivered
+ORD10235,2025-03-14,CUST1024,Headphones,Electronics,1,4004.0,0.2,West,Cash on Delivery,Delivered
+ORD10236,2025-05-13,CUST1236,Blender,Home & Kitchen,4,7844.0,0.2,West,UPI,Pending
+ORD10237,2025-03-20,CUST1243,Jeans,Clothing,5,2358.0,0.2,East,Net Banking,Delivered
+ORD10238,2025-03-13,CUST1098,Dress,Clothing,2,3054.0,0.05,North,UPI,Delivered
+ORD10239,2025-11-01,CUST1154,Vacuum Cleaner,Home & Kitchen,1,13921.0,0.2,North,UPI,Delivered
+ORD10240,2025-05-20,CUST1129,Smartphone,Electronics,5,68593.0,0.05,West,Cash on Delivery,Returned
+ORD10241,2025-12-07,CUST1016,Headphones,Electronics,2,1350.0,0.0,North,UPI,Delivered
+ORD10242,2025-10-18,CUST1051,Programming Book,Books,4,1175.0,0.15,East,Cash on Delivery,Delivered
+ORD10243,2025-02-10,CUST1023,Cookbook,Books,1,1154.0,0.05,East,Credit Card,Delivered
+ORD10244,2025-02-15,CUST1136,Comics,Books,2,358.0,0.15,East,UPI,Delivered
+ORD10245,2025-10-22,CUST1058,Blender,Home & Kitchen,1,5874.0,0.1,West,Net Banking,Delivered
+ORD10246,2025-08-03,CUST1125,Cookbook,Books,5,469.0,0.0,East,Debit Card,Delivered
+ORD10247,2025-07-07,CUST1120,Jeans,Clothing,1,3488.0,0.1,Central,Debit Card,Delivered
+ORD10248,2025-08-12,CUST1013,Jeans,Clothing,4,1569.0,0.15,East,Cash on Delivery,Delivered
+ORD10249,2025-10-20,CUST1206,Programming Book,Books,4,1092.0,0.0,West,Net Banking,Pending
+ORD10250,2025-10-09,CUST1158,Bookshelf,Furniture,1,8561.0,0.2,South,Credit Card,Delivered
+ORD10251,2025-08-07,CUST1107,Air Fryer,Home & Kitchen,4,14567.0,0.05,West,Cash on Delivery,Delivered
+ORD10252,2025-08-07,CUST1187,Cookware Set,Home & Kitchen,3,5110.0,0.05,South,UPI,Delivered
+ORD10253,2025-09-25,CUST1069,T-Shirt,Clothing,2,1446.0,0.2,East,UPI,Cancelled
+ORD10254,2025-04-30,CUST1133,Smartphone,Electronics,2,23464.0,0.05,North,Cash on Delivery,Delivered
+ORD10255,2025-10-15,CUST1120,Air Fryer,Home & Kitchen,4,5927.0,0.05,Central,UPI,Delivered
+ORD10256,2025-10-30,CUST1177,Desk,Furniture,4,6672.0,0.1,North,UPI,Delivered
+ORD10257,2025-03-17,CUST1113,Cookware Set,Home & Kitchen,1,7186.0,0.2,East,Cash on Delivery,Delivered
+ORD10258,2025-05-06,CUST1099,Office Chair,Furniture,2,6057.0,0.1,West,Credit Card,Delivered
+ORD10259,2025-01-06,CUST1110,Office Chair,Furniture,2,7455.0,0.0,West,Credit Card,Delivered
+ORD10260,2025-05-14,CUST1125,Headphones,Electronics,1,9348.0,0.2,West,Net Banking,Pending
+ORD10261,2025-10-31,CUST1228,Biography,Books,3,649.0,0.2,East,Net Banking,Delivered
+ORD10262,2025-06-21,CUST1124,Monitor,Electronics,3,7363.0,0.1,East,Debit Card,Delivered
+ORD10263,2025-09-18,CUST1057,Sneakers,Clothing,5,7775.0,0.0,North,Net Banking,Pending
+ORD10264,2025-02-28,CUST1079,Cookbook,Books,1,1086.0,0.2,North,Debit Card,Delivered
+ORD10265,2025-12-30,CUST1140,Sneakers,Clothing,3,8541.0,0.05,West,Credit Card,Delivered
+ORD10266,2025-10-07,CUST1101,Monitor,Electronics,4,8332.0,0.2,North,Cash on Delivery,Delivered
+ORD10267,2025-12-24,CUST1067,Monitor,Electronics,2,11035.0,0.2,Central,Cash on Delivery,Delivered
+ORD10268,2025-12-17,CUST1070,Air Fryer,Home & Kitchen,3,12960.0,0.05,South,Cash on Delivery,Delivered
+ORD10269,2025-10-11,CUST1194,Coffee Table,Furniture,4,5460.0,0.05,West,Net Banking,Delivered
+ORD10270,2025-07-28,CUST1143,Air Fryer,Home & Kitchen,4,6344.0,0.0,South,Cash on Delivery,Delivered
+ORD10271,2025-10-08,CUST1023,Keyboard,Electronics,4,2835.0,0.2,North,Credit Card,Delivered
+ORD10272,2025-07-25,CUST1103,Desk,Furniture,1,7965.0,0.0,East,Debit Card,Pending
+ORD10273,2025-03-02,CUST1103,Sneakers,Clothing,1,6678.0,0.2,West,Debit Card,Cancelled
+ORD10274,2025-12-20,CUST1025,Keyboard,Electronics,1,3784.0,0.15,East,Debit Card,Delivered
+ORD10275,2025-03-12,CUST1200,Headphones,Electronics,2,5995.0,0.05,South,Cash on Delivery,Pending
+ORD10276,2025-04-11,CUST1034,Sofa,Furniture,1,28706.0,0.05,North,Cash on Delivery,Delivered
+ORD10277,2025-04-04,CUST1009,Headphones,Electronics,4,10283.0,0.05,North,UPI,Delivered
+ORD10278,2025-08-13,CUST1213,Blender,Home & Kitchen,2,2871.0,0.2,South,Cash on Delivery,Delivered
+ORD10279,2025-02-06,CUST1155,Keyboard,Electronics,3,4404.0,0.05,East,Net Banking,Delivered
+ORD10280,2025-12-22,CUST1111,Blender,Home & Kitchen,1,7601.0,0.15,North,Cash on Delivery,Delivered
+ORD10281,2025-08-15,CUST1072,Blender,Home & Kitchen,1,6834.0,0.15,East,UPI,Delivered
+ORD10282,2025-11-10,CUST1099,Sneakers,Clothing,3,5290.0,0.1,Central,Net Banking,Cancelled
+ORD10283,2025-04-03,CUST1131,Monitor,Electronics,2,23940.0,0.15,West,UPI,Pending
+ORD10284,2025-02-27,CUST1247,Fiction Novel,Books,5,633.0,0.2,South,Credit Card,Delivered
+ORD10285,2025-08-07,CUST1104,T-Shirt,Clothing,2,1782.0,0.0,West,Cash on Delivery,Delivered
+ORD10286,2025-06-25,CUST1221,Vacuum Cleaner,Home & Kitchen,4,12656.0,0.2,West,Credit Card,Delivered
+ORD10287,2025-12-08,CUST1208,Desk,Furniture,2,16734.0,0.15,Central,UPI,Delivered
+ORD10288,2025-06-23,CUST1014,Microwave,Home & Kitchen,4,12762.0,0.1,East,Credit Card,Pending
+ORD10289,2025-11-13,CUST1013,Keyboard,Electronics,3,2284.0,0.2,South,Net Banking,Delivered
+ORD10290,2025-04-19,CUST1054,Programming Book,Books,4,1457.0,0.2,East,Debit Card,Delivered
+ORD10291,2025-05-05,CUST1240,Monitor,Electronics,3,12307.0,0.0,East,Net Banking,Delivered
+ORD10292,2025-02-14,CUST1113,Air Fryer,Home & Kitchen,1,9848.0,0.1,North,Net Banking,Delivered
+ORD10293,2025-12-21,CUST1145,Comics,Books,1,597.0,0.05,North,UPI,Returned
+ORD10294,2025-10-30,CUST1043,Cookbook,Books,5,1130.0,0.05,South,Credit Card,Delivered
+ORD10295,2025-02-02,CUST1019,Smartphone,Electronics,1,16135.0,0.2,North,UPI,Pending
+ORD10296,2025-05-30,CUST1221,T-Shirt,Clothing,1,1484.0,0.15,South,Net Banking,Delivered
+ORD10297,2025-03-03,CUST1117,Cookware Set,Home & Kitchen,4,5021.0,0.05,North,UPI,Pending
+ORD10298,2025-10-19,CUST1211,Bookshelf,Furniture,4,3958.0,0.05,West,Credit Card,Delivered
+ORD10299,2025-03-17,CUST1077,Comics,Books,5,192.0,0.15,West,Credit Card,Delivered
+ORD10300,2025-04-01,CUST1073,Fiction Novel,Books,5,376.0,0.1,South,Debit Card,Delivered
+ORD10301,2025-04-30,CUST1174,T-Shirt,Clothing,5,1273.0,0.0,West,Net Banking,Delivered
+ORD10302,2025-06-08,CUST1022,Monitor,Electronics,1,17277.0,0.1,Central,Credit Card,Delivered
+ORD10303,2025-06-19,CUST1137,Vacuum Cleaner,Home & Kitchen,5,9741.0,0.2,North,Net Banking,Delivered
+ORD10304,2025-12-06,CUST1123,T-Shirt,Clothing,4,1267.0,0.2,Central,Debit Card,Delivered
+ORD10305,2025-09-02,CUST1121,Blender,Home & Kitchen,3,1967.0,0.1,East,Cash on Delivery,Delivered
+ORD10306,2025-08-03,CUST1046,Dress,Clothing,3,5819.0,0.1,East,Credit Card,Delivered
+ORD10307,2025-07-16,CUST1184,Monitor,Electronics,2,16935.0,0.15,West,UPI,Delivered
+ORD10308,2025-05-27,CUST1157,Laptop,Electronics,5,86760.0,0.0,North,Credit Card,Delivered
+ORD10309,2025-04-02,CUST1227,Desk,Furniture,1,19953.0,0.05,Central,Debit Card,Delivered
+ORD10310,2025-09-22,CUST1072,Microwave,Home & Kitchen,5,17986.0,0.05,South,Credit Card,Delivered
+ORD10311,2025-02-09,CUST1132,Sneakers,Clothing,1,8952.0,0.2,South,Net Banking,Pending
+ORD10312,2025-09-01,CUST1209,Programming Book,Books,2,725.0,0.1,South,Credit Card,Delivered
+ORD10313,2025-08-01,CUST1200,Biography,Books,5,891.0,0.2,Central,Credit Card,Delivered
+ORD10314,2025-07-30,CUST1160,T-Shirt,Clothing,1,1185.0,0.1,East,Debit Card,Delivered
+ORD10315,2025-06-06,CUST1048,Bookshelf,Furniture,3,5641.0,0.0,East,Cash on Delivery,Delivered
+ORD10316,2025-03-06,CUST1006,Laptop,Electronics,5,76764.0,0.1,Central,Credit Card,Delivered
+ORD10317,2025-01-04,CUST1014,Air Fryer,Home & Kitchen,4,7025.0,0.0,Central,Debit Card,Delivered
+ORD10318,2025-03-25,CUST1112,Blender,Home & Kitchen,3,2510.0,0.15,West,Debit Card,Delivered
+ORD10319,2025-07-20,CUST1045,Vacuum Cleaner,Home & Kitchen,1,22861.0,0.0,East,Cash on Delivery,Delivered
+ORD10320,2025-02-21,CUST1182,Keyboard,Electronics,5,1412.0,0.15,North,Debit Card,Cancelled
+ORD10321,2025-10-09,CUST1090,Jacket,Clothing,5,3361.0,0.1,West,Credit Card,Delivered
+ORD10322,2025-04-29,CUST1110,Bookshelf,Furniture,2,9259.0,0.0,East,Net Banking,Delivered
+ORD10323,2025-01-17,CUST1026,Cookware Set,Home & Kitchen,2,7636.0,0.15,Central,Debit Card,Delivered
+ORD10324,2025-07-29,CUST1114,Laptop,Electronics,5,37340.0,0.05,North,Debit Card,Delivered
+ORD10325,2025-08-11,CUST1233,Cookware Set,Home & Kitchen,3,8465.0,0.05,East,UPI,Cancelled
+ORD10326,2025-09-19,CUST1243,Biography,Books,5,257.0,0.15,North,Cash on Delivery,Returned
+ORD10327,2025-01-23,CUST1154,Sneakers,Clothing,1,2086.0,0.2,Central,Net Banking,Delivered
+ORD10328,2025-09-16,CUST1019,Jacket,Clothing,4,2598.0,0.15,West,Net Banking,Pending
+ORD10329,2025-12-05,CUST1243,Sneakers,Clothing,3,5324.0,0.05,North,Net Banking,Delivered
+ORD10330,2025-08-05,CUST1236,Smartphone,Electronics,4,24735.0,0.1,East,Net Banking,Delivered
+ORD10331,2025-10-14,CUST1061,Cookbook,Books,1,640.0,0.2,East,Net Banking,Cancelled
+ORD10332,2025-07-17,CUST1038,Office Chair,Furniture,4,13548.0,0.2,East,UPI,Delivered
+ORD10333,2025-10-03,CUST1189,Desk,Furniture,3,5496.0,0.1,North,Credit Card,Delivered
+ORD10334,2025-01-13,CUST1112,Vacuum Cleaner,Home & Kitchen,2,15401.0,0.2,Central,Cash on Delivery,Delivered
+ORD10335,2025-04-14,CUST1036,Smartphone,Electronics,4,63336.0,0.1,South,UPI,Delivered
+ORD10336,2025-03-18,CUST1111,Headphones,Electronics,3,4010.0,0.0,West,Debit Card,Delivered
+ORD10337,2025-04-22,CUST1094,Bookshelf,Furniture,4,2804.0,0.15,South,Net Banking,Delivered
+ORD10338,2025-04-29,CUST1099,Headphones,Electronics,2,3581.0,0.1,West,Cash on Delivery,Delivered
+ORD10339,2025-08-19,CUST1129,Jeans,Clothing,1,2483.0,0.0,West,Credit Card,Delivered
+ORD10340,2025-04-29,CUST1006,Laptop,Electronics,5,78055.0,0.2,Central,Net Banking,Delivered
+ORD10341,2025-04-09,CUST1233,Sofa,Furniture,3,54378.0,0.15,Central,Cash on Delivery,Delivered
+ORD10342,2025-10-17,CUST1085,Dress,Clothing,3,3826.0,0.0,North,Cash on Delivery,Delivered
+ORD10343,2025-01-02,CUST1120,T-Shirt,Clothing,3,1580.0,0.05,North,Cash on Delivery,Delivered
+ORD10344,2025-12-26,CUST1067,Smartphone,Electronics,4,14999.0,0.2,West,Debit Card,Delivered
+ORD10345,2025-12-27,CUST1243,Office Chair,Furniture,4,16987.0,0.1,Central,Credit Card,Delivered
+ORD10346,2025-05-31,CUST1214,Fiction Novel,Books,1,468.0,0.05,Central,Credit Card,Delivered
+ORD10347,2025-03-14,CUST1008,Programming Book,Books,4,701.0,0.05,East,Credit Card,Delivered
+ORD10348,2025-05-17,CUST1066,Cookware Set,Home & Kitchen,3,3105.0,0.15,East,Credit Card,Delivered
+ORD10349,2025-02-06,CUST1214,Cookware Set,Home & Kitchen,4,5159.0,0.05,North,Debit Card,Delivered
+ORD10350,2025-07-26,CUST1124,Biography,Books,4,473.0,0.0,East,UPI,Delivered
+ORD10351,2025-11-27,CUST1235,Microwave,Home & Kitchen,2,7569.0,0.2,South,Net Banking,Delivered
+ORD10352,2025-07-12,CUST1041,Vacuum Cleaner,Home & Kitchen,3,24857.0,0.05,North,Debit Card,Delivered
+ORD10353,2025-01-27,CUST1232,Headphones,Electronics,2,7667.0,0.0,West,Credit Card,Delivered
+ORD10354,2025-10-28,CUST1009,Monitor,Electronics,2,12525.0,0.05,South,Credit Card,Delivered
+ORD10355,2025-05-05,CUST1082,Bookshelf,Furniture,5,6159.0,0.05,South,UPI,Delivered
+ORD10356,2025-05-09,CUST1233,Smartphone,Electronics,3,55886.0,0.2,North,Debit Card,Delivered
+ORD10357,2025-09-25,CUST1212,Office Chair,Furniture,1,14722.0,0.15,East,Cash on Delivery,Delivered
+ORD10358,2025-01-25,CUST1233,Vacuum Cleaner,Home & Kitchen,4,21128.0,0.05,East,UPI,Returned
+ORD10359,2025-02-18,CUST1009,Blender,Home & Kitchen,2,2106.0,0.15,West,Net Banking,Pending
+ORD10360,2025-10-02,CUST1069,Jacket,Clothing,2,6256.0,0.0,Central,Debit Card,Delivered
+ORD10361,2025-11-07,CUST1107,Jacket,Clothing,5,3179.0,0.05,North,Cash on Delivery,Delivered
+ORD10362,2025-09-28,CUST1126,Comics,Books,4,384.0,0.05,North,Debit Card,Delivered
+ORD10363,2025-08-11,CUST1142,T-Shirt,Clothing,4,611.0,0.05,East,Debit Card,Pending
+ORD10364,2025-07-01,CUST1242,Sofa,Furniture,1,63489.0,0.15,East,Cash on Delivery,Delivered
+ORD10365,2025-04-21,CUST1147,Jacket,Clothing,2,2684.0,0.2,South,Credit Card,Cancelled
+ORD10366,2025-04-05,CUST1015,Smartphone,Electronics,2,44704.0,0.15,South,Debit Card,Pending
+ORD10367,2025-01-26,CUST1166,Headphones,Electronics,2,6537.0,0.05,South,UPI,Cancelled
+ORD10368,2025-02-14,CUST1147,Programming Book,Books,2,701.0,0.05,South,Net Banking,Delivered
+ORD10369,2025-10-06,CUST1114,Monitor,Electronics,4,9395.0,0.2,South,Cash on Delivery,Delivered
+ORD10370,2025-08-02,CUST1233,Comics,Books,5,198.0,0.0,West,Cash on Delivery,Delivered
+ORD10371,2025-04-23,CUST1048,Sofa,Furniture,4,37622.0,0.1,East,Cash on Delivery,Delivered
+ORD10372,2025-02-12,CUST1164,Vacuum Cleaner,Home & Kitchen,3,6343.0,0.0,North,Credit Card,Delivered
+ORD10373,2025-05-27,CUST1220,Monitor,Electronics,5,28847.0,0.15,East,UPI,Delivered
+ORD10374,2025-11-02,CUST1016,Coffee Table,Furniture,3,6297.0,0.05,East,Credit Card,Delivered
+ORD10375,2025-04-23,CUST1157,Office Chair,Furniture,4,6356.0,0.05,South,Credit Card,Delivered
+ORD10376,2025-04-16,CUST1147,Dress,Clothing,1,4905.0,0.05,South,Cash on Delivery,Delivered
+ORD10377,2025-09-17,CUST1108,Comics,Books,2,587.0,0.0,Central,Net Banking,Returned
+ORD10378,2025-01-12,CUST1032,T-Shirt,Clothing,3,529.0,0.1,West,Net Banking,Delivered
+ORD10379,2025-12-05,CUST1154,Air Fryer,Home & Kitchen,3,13563.0,,East,Net Banking,Pending
+ORD10380,2025-09-16,CUST1055,Fiction Novel,Books,1,220.0,0.1,North,Cash on Delivery,Delivered
+ORD10381,2025-09-15,CUST1176,Office Chair,Furniture,5,6227.0,0.05,South,Credit Card,Delivered
+ORD10382,2025-04-11,CUST1074,Cookbook,Books,1,988.0,0.0,North,Cash on Delivery,Delivered
+ORD10383,2025-09-11,CUST1010,Jeans,Clothing,4,1768.0,0.05,North,Net Banking,Delivered
+ORD10384,2025-04-25,CUST1190,Keyboard,Electronics,5,3783.0,0.2,South,Debit Card,Delivered
+ORD10385,2025-07-24,CUST1108,T-Shirt,Clothing,4,854.0,0.1,South,Debit Card,Cancelled
+ORD10386,2025-01-02,CUST1046,Comics,Books,2,193.0,0.05,West,Credit Card,Delivered
+ORD10387,2025-08-13,CUST1230,Laptop,Electronics,5,77024.0,,Central,UPI,Delivered
+ORD10388,2025-05-26,CUST1247,Sofa,Furniture,2,19013.0,0.05,South,Credit Card,Delivered
+ORD10389,2025-02-26,CUST1095,Jacket,Clothing,5,4390.0,0.1,South,Cash on Delivery,Delivered
+ORD10390,2025-10-31,CUST1093,Office Chair,Furniture,2,13502.0,0.2,East,Debit Card,Delivered
+ORD10391,2025-12-13,CUST1073,Monitor,Electronics,3,8590.0,0.15,North,Net Banking,Delivered
+ORD10392,2025-04-20,CUST1006,Cookbook,Books,1,1052.0,0.0,Central,UPI,Pending
+ORD10393,2025-04-15,CUST1199,Headphones,Electronics,4,6941.0,0.1,Central,Debit Card,Delivered
+ORD10394,2025-12-11,CUST1013,Biography,Books,3,347.0,0.2,South,Debit Card,Cancelled
+ORD10395,2025-10-30,CUST1105,Air Fryer,Home & Kitchen,4,11538.0,0.05,North,Credit Card,Delivered
+ORD10396,2025-10-07,CUST1063,Jacket,Clothing,4,3500.0,0.05,Central,Credit Card,Delivered
+ORD10397,2025-06-14,CUST1174,Programming Book,Books,3,1263.0,0.0,Central,Cash on Delivery,Delivered
+ORD10398,2025-04-18,CUST1191,Headphones,Electronics,1,896.0,0.0,North,Cash on Delivery,Delivered
+ORD10399,2025-05-06,CUST1190,Blender,Home & Kitchen,5,1967.0,0.1,Central,Credit Card,Delivered
+ORD10400,2025-05-25,CUST1048,T-Shirt,Clothing,5,1788.0,0.05,East,UPI,Delivered
+ORD10401,2025-06-20,CUST1224,Jeans,Clothing,4,2981.0,0.15,South,Cash on Delivery,Delivered
+ORD10402,2025-07-14,CUST1233,Sneakers,Clothing,5,3730.0,0.05,East,Net Banking,Returned
+ORD10403,2025-05-08,CUST1027,Office Chair,Furniture,5,11293.0,0.1,South,Credit Card,Delivered
+ORD10404,2025-02-05,CUST1050,Keyboard,Electronics,4,4692.0,0.0,West,Net Banking,Delivered
+ORD10405,2025-01-21,CUST1173,Comics,Books,1,549.0,0.0,Central,Net Banking,Delivered
+ORD10406,2025-06-20,CUST1081,Air Fryer,Home & Kitchen,5,11902.0,0.1,Central,Net Banking,Cancelled
+ORD10407,2025-09-03,CUST1190,T-Shirt,Clothing,3,1330.0,0.1,South,Cash on Delivery,Delivered
+ORD10408,2025-11-02,CUST1143,Monitor,Electronics,2,19407.0,0.1,North,UPI,Delivered
+ORD10409,2025-08-15,CUST1181,Sneakers,Clothing,2,5889.0,0.15,North,Net Banking,Pending
+ORD10410,2025-10-11,CUST1026,Dress,Clothing,1,3780.0,0.15,North,Credit Card,Delivered
+ORD10411,2025-05-26,CUST1149,Biography,Books,2,692.0,0.0,North,Credit Card,Delivered
+ORD10412,2025-04-18,CUST1085,Microwave,Home & Kitchen,5,13122.0,0.1,West,Debit Card,Pending
+ORD10413,2025-05-01,CUST1013,Microwave,Home & Kitchen,2,12237.0,0.05,West,UPI,Delivered
+ORD10414,2025-12-26,CUST1059,Coffee Table,Furniture,2,9554.0,0.1,Central,UPI,Delivered
+ORD10415,2025-10-20,CUST1201,Air Fryer,Home & Kitchen,5,8217.0,0.15,East,UPI,Delivered
+ORD10416,2025-12-19,CUST1231,Fiction Novel,Books,1,441.0,0.0,Central,Cash on Delivery,Delivered
+ORD10417,2025-09-05,CUST1125,Sneakers,Clothing,4,3088.0,0.2,North,UPI,Delivered
+ORD10418,2025-11-05,CUST1014,Biography,Books,4,789.0,0.05,East,Cash on Delivery,Cancelled
+ORD10419,2025-09-07,CUST1105,Sneakers,Clothing,5,6318.0,0.1,Central,UPI,Delivered
+ORD10420,2025-01-08,CUST1057,Smartphone,Electronics,2,60525.0,0.0,Central,Debit Card,Delivered
+ORD10421,2025-10-09,CUST1157,Smartphone,Electronics,5,44672.0,0.05,South,Cash on Delivery,Delivered
+ORD10422,2025-04-04,CUST1158,Fiction Novel,Books,5,742.0,0.2,East,Net Banking,Delivered
+ORD10423,2025-11-28,CUST1147,Cookware Set,Home & Kitchen,1,1918.0,0.2,North,Net Banking,Delivered
+ORD10424,2025-01-01,CUST1110,Keyboard,Electronics,2,2794.0,0.1,East,Credit Card,Delivered
+ORD10425,2025-06-12,CUST1044,Dress,Clothing,1,3001.0,0.2,West,Credit Card,Delivered
+ORD10426,2025-10-04,CUST1238,Jeans,Clothing,1,2248.0,0.15,South,Credit Card,Delivered
+ORD10427,2025-11-15,CUST1008,Smartphone,Electronics,2,27218.0,0.1,Central,Net Banking,Delivered
+ORD10428,2025-04-28,CUST1100,Microwave,Home & Kitchen,4,12199.0,0.15,East,UPI,Delivered
+ORD10429,2025-08-29,CUST1140,Blender,Home & Kitchen,2,7972.0,0.0,West,Net Banking,Pending
+ORD10430,2025-10-20,CUST1215,T-Shirt,Clothing,2,1268.0,0.15,Central,UPI,Cancelled
+ORD10431,2025-09-21,CUST1049,Smartphone,Electronics,2,60500.0,0.0,South,UPI,Delivered
+ORD10432,2025-02-01,CUST1101,Desk,Furniture,2,7486.0,0.1,Central,Net Banking,Cancelled
+ORD10433,2025-09-25,CUST1229,Air Fryer,Home & Kitchen,5,5368.0,0.05,East,UPI,Delivered
+ORD10434,2025-11-02,CUST1167,Biography,Books,3,868.0,0.1,East,Debit Card,Delivered
+ORD10435,2025-10-21,CUST1059,Laptop,Electronics,3,42928.0,0.15,West,Net Banking,Delivered
+ORD10436,2025-04-24,CUST1194,Comics,Books,3,601.0,0.1,North,Credit Card,Delivered
+ORD10437,2025-11-30,CUST1226,Smartphone,Electronics,3,61932.0,0.2,South,Cash on Delivery,Cancelled
+ORD10438,2025-02-24,CUST1106,Headphones,Electronics,5,11237.0,0.1,West,Debit Card,Delivered
+ORD10439,2025-08-03,CUST1125,Sofa,Furniture,5,27065.0,0.0,Central,Cash on Delivery,Delivered
+ORD10440,2025-08-13,CUST1053,T-Shirt,Clothing,2,999.0,0.1,South,Cash on Delivery,Delivered
+ORD10441,2025-04-15,CUST1216,Air Fryer,Home & Kitchen,5,12360.0,0.1,South,Credit Card,Cancelled
+ORD10442,2025-03-04,CUST1212,Air Fryer,Home & Kitchen,1,12787.0,0.15,North,Cash on Delivery,Delivered
+ORD10443,2025-11-29,CUST1232,Microwave,Home & Kitchen,1,14935.0,0.1,South,Credit Card,Delivered
+ORD10444,2025-09-09,CUST1100,Monitor,Electronics,2,12193.0,0.2,Central,Credit Card,Delivered
+ORD10445,2025-08-10,CUST1018,Jacket,Clothing,2,5991.0,0.2,West,Debit Card,Delivered
+ORD10446,2025-07-01,CUST1118,Jacket,Clothing,2,4126.0,0.05,South,Debit Card,Delivered
+ORD10447,2025-01-25,CUST1086,Sneakers,Clothing,4,7634.0,0.15,West,Cash on Delivery,Pending
+ORD10448,2025-10-14,CUST1185,Laptop,Electronics,4,67048.0,0.05,South,Credit Card,Delivered
+ORD10449,2025-05-22,CUST1096,Bookshelf,Furniture,1,7356.0,0.2,North,Cash on Delivery,Returned
+ORD10450,2025-07-18,CUST1009,Fiction Novel,Books,5,298.0,0.2,Central,Credit Card,Pending
+ORD10451,2025-09-24,CUST1204,Vacuum Cleaner,Home & Kitchen,1,15655.0,0.05,East,Net Banking,Delivered
+ORD10452,2025-07-23,CUST1161,Programming Book,Books,2,760.0,0.0,Central,Cash on Delivery,Delivered
+ORD10453,2025-12-17,,Keyboard,Electronics,1,1127.0,0.2,South,Debit Card,Returned
+ORD10454,2025-12-03,CUST1202,Headphones,Electronics,3,7033.0,0.1,South,Credit Card,Delivered
+ORD10455,2025-04-23,CUST1035,Smartphone,Electronics,5,54968.0,0.15,North,Credit Card,Cancelled
+ORD10456,2025-01-13,CUST1084,Monitor,Electronics,1,13871.0,0.1,East,Credit Card,Delivered
+ORD10457,2025-02-04,CUST1144,Laptop,Electronics,2,64129.0,0.15,Central,UPI,Pending
+ORD10458,2025-06-22,CUST1196,Smartphone,Electronics,5,56359.0,0.05,North,Credit Card,Delivered
+ORD10459,2025-01-13,CUST1182,Dress,Clothing,5,1358.0,0.05,East,Cash on Delivery,Delivered
+ORD10460,2025-07-05,CUST1175,Biography,Books,5,769.0,0.2,East,Net Banking,Delivered
+ORD10461,2025-08-03,CUST1079,Vacuum Cleaner,Home & Kitchen,4,23383.0,0.0,North,UPI,Cancelled
+ORD10462,2025-10-25,CUST1248,T-Shirt,Clothing,1,1345.0,0.2,South,UPI,Pending
+ORD10463,2025-08-08,CUST1089,Fiction Novel,Books,2,228.0,0.15,West,Net Banking,Delivered
+ORD10464,2025-10-15,CUST1026,Bookshelf,Furniture,3,3784.0,0.0,North,Net Banking,Delivered
+ORD10465,2025-09-18,CUST1135,Monitor,Electronics,2,22914.0,0.15,East,Cash on Delivery,Delivered
+ORD10466,2025-03-23,CUST1248,Vacuum Cleaner,Home & Kitchen,3,6502.0,0.15,Central,Cash on Delivery,Delivered
+ORD10467,2025-10-02,CUST1193,Dress,Clothing,3,2896.0,0.15,South,Cash on Delivery,Delivered
+ORD10468,2025-04-12,CUST1062,Headphones,Electronics,4,7474.0,0.0,West,Credit Card,Delivered
+ORD10469,2025-03-15,CUST1219,Keyboard,Electronics,1,1246.0,0.0,South,Net Banking,Delivered
+ORD10470,2025-10-07,CUST1150,Headphones,Electronics,3,7057.0,0.05,South,Debit Card,Cancelled
+ORD10471,2025-11-17,CUST1239,Sofa,Furniture,4,48957.0,0.0,Central,Cash on Delivery,Delivered
+ORD10472,2025-07-10,CUST1185,Jeans,Clothing,5,1549.0,0.2,North,Credit Card,Delivered
+ORD10473,2025-05-09,CUST1161,Jeans,Clothing,4,3066.0,0.15,Central,Net Banking,Delivered
+ORD10474,2025-05-19,CUST1109,Sofa,Furniture,1,17283.0,0.15,East,Debit Card,Delivered
+ORD10475,2025-08-03,CUST1017,Smartphone,Electronics,5,46094.0,0.05,North,Net Banking,Delivered
+ORD10476,2025-05-31,CUST1081,Desk,Furniture,2,13058.0,0.2,East,Net Banking,Cancelled
+ORD10477,2025-01-03,CUST1115,Air Fryer,Home & Kitchen,1,8748.0,0.15,Central,Debit Card,Delivered
+ORD10478,2025-11-01,CUST1031,Bookshelf,Furniture,3,3490.0,0.1,Central,Debit Card,Delivered
+ORD10479,2025-11-22,CUST1115,Programming Book,Books,4,498.0,0.15,North,UPI,Delivered
+ORD10480,2025-02-22,CUST1101,Keyboard,Electronics,1,1475.0,0.05,South,Debit Card,Delivered
+ORD10481,2025-04-23,CUST1083,Laptop,Electronics,2,40146.0,0.1,East,Debit Card,Delivered
+ORD10482,2025-09-16,CUST1032,Headphones,Electronics,2,11344.0,0.0,North,UPI,Returned
+ORD10483,2025-09-25,CUST1023,Sneakers,Clothing,3,6077.0,0.2,South,Cash on Delivery,Delivered
+ORD10484,2025-06-09,CUST1233,Jacket,Clothing,1,3984.0,0.05,South,UPI,Returned
+ORD10485,2025-08-05,CUST1015,Sofa,Furniture,2,47439.0,0.2,East,Cash on Delivery,Delivered
+ORD10486,2025-02-25,CUST1169,Air Fryer,Home & Kitchen,3,5641.0,0.1,North,Debit Card,Delivered
+ORD10487,2025-04-12,CUST1178,Smartphone,Electronics,5,61555.0,0.0,West,Cash on Delivery,Delivered
+ORD10488,2025-03-03,CUST1148,Laptop,Electronics,4,72078.0,0.0,South,Net Banking,Delivered
+ORD10489,2025-07-30,CUST1052,Desk,Furniture,3,18643.0,0.1,Central,Debit Card,Cancelled
+ORD10490,2025-09-17,CUST1022,Vacuum Cleaner,Home & Kitchen,4,14436.0,0.05,Central,Credit Card,Delivered
+ORD10491,2025-12-28,CUST1043,Comics,Books,1,272.0,0.2,West,Credit Card,Delivered
+ORD10492,2025-08-26,CUST1219,Bookshelf,Furniture,1,10085.0,0.2,Central,UPI,Delivered
+ORD10493,2025-03-13,CUST1085,Headphones,Electronics,4,11030.0,0.1,West,UPI,Delivered
+ORD10494,2025-08-28,CUST1243,Monitor,Electronics,1,28023.0,0.15,Central,UPI,Delivered
+ORD10495,2025-11-02,CUST1071,Coffee Table,Furniture,2,6344.0,0.05,North,Debit Card,Delivered
+ORD10496,2025-04-06,CUST1233,T-Shirt,Clothing,2,1311.0,0.0,Central,Debit Card,Pending
+ORD10497,2025-08-12,CUST1219,Vacuum Cleaner,Home & Kitchen,2,19200.0,0.15,North,Net Banking,Delivered
+ORD10498,2025-09-30,CUST1061,Monitor,Electronics,1,20944.0,0.0,East,UPI,Delivered
+ORD10499,2025-12-05,CUST1206,Smartphone,Electronics,4,47404.0,0.15,North,Credit Card,Delivered
+ORD10500,2025-02-18,CUST1053,T-Shirt,Clothing,5,1061.0,0.15,Central,Cash on Delivery,Delivered
+ORD10501,2025-04-13,CUST1187,Vacuum Cleaner,Home & Kitchen,3,16882.0,0.05,North,UPI,Delivered
+ORD10502,2025-10-04,CUST1188,Jacket,Clothing,2,2376.0,0.0,South,Credit Card,Cancelled
+ORD10503,2025-11-16,CUST1178,Cookware Set,Home & Kitchen,3,6827.0,0.05,West,Cash on Delivery,Delivered
+ORD10504,2025-05-08,CUST1186,Bookshelf,Furniture,2,4729.0,0.05,East,Debit Card,Delivered
+ORD10505,2025-11-07,,Bookshelf,Furniture,2,3842.0,0.05,North,Net Banking,Delivered
+ORD10506,2025-05-20,CUST1058,Microwave,Home & Kitchen,2,6773.0,0.05,North,Cash on Delivery,Delivered
+ORD10507,2025-07-30,CUST1159,Dress,Clothing,2,1223.0,0.0,Central,Credit Card,Cancelled
+ORD10508,2025-03-18,CUST1244,Cookware Set,Home & Kitchen,2,5021.0,0.15,North,Debit Card,Delivered
+ORD10509,2025-06-28,CUST1025,Cookbook,Books,2,524.0,0.2,Central,Net Banking,Pending
+ORD10510,2025-03-14,CUST1038,Dress,Clothing,3,3579.0,0.15,Central,Credit Card,Delivered
+ORD10511,2025-03-02,CUST1221,Dress,Clothing,1,3321.0,0.05,South,Credit Card,Delivered
+ORD10512,2025-01-24,CUST1113,Sofa,Furniture,1,24097.0,0.15,South,UPI,Returned
+ORD10513,2025-01-05,CUST1227,Cookware Set,Home & Kitchen,1,7010.0,0.2,West,Credit Card,Delivered
+ORD10514,2025-03-24,CUST1029,Sneakers,Clothing,2,3505.0,0.05,South,,Pending
+ORD10515,2025-06-19,CUST1114,Cookware Set,Home & Kitchen,5,4077.0,0.05,West,Debit Card,Cancelled
+ORD10516,2025-05-23,CUST1242,Fiction Novel,Books,1,750.0,0.2,North,Debit Card,Delivered
+ORD10517,2025-02-27,CUST1043,Smartphone,Electronics,4,34636.0,0.05,Central,Cash on Delivery,Delivered
+ORD10518,2025-01-22,CUST1170,Cookbook,Books,2,985.0,0.15,East,Credit Card,Delivered
+ORD10519,2025-09-06,CUST1064,Laptop,Electronics,2,86574.0,0.05,South,Net Banking,Delivered
+ORD10520,2025-10-06,CUST1169,Jacket,Clothing,1,5089.0,0.0,Central,Credit Card,Delivered
+ORD10521,2025-10-16,CUST1114,Keyboard,Electronics,5,1996.0,0.05,North,UPI,Delivered
+ORD10522,2025-09-25,CUST1236,Jeans,Clothing,4,1321.0,0.15,North,Debit Card,Cancelled
+ORD10523,2025-07-04,CUST1191,Monitor,Electronics,2,7988.0,0.15,East,Cash on Delivery,Delivered
+ORD10524,2025-08-06,CUST1044,Blender,Home & Kitchen,1,3947.0,0.05,East,Cash on Delivery,Delivered
+ORD10525,2025-01-25,CUST1178,Cookware Set,Home & Kitchen,1,6404.0,0.15,North,Cash on Delivery,Delivered
+ORD10526,2025-10-22,CUST1031,Laptop,Electronics,2,67919.0,0.05,South,UPI,Delivered
+ORD10527,2025-06-20,CUST1079,Keyboard,Electronics,4,756.0,0.2,West,Cash on Delivery,Returned
+ORD10528,2025-01-24,CUST1173,Laptop,Electronics,1,74321.0,0.15,South,UPI,Delivered
+ORD10529,2025-08-29,CUST1168,Keyboard,Electronics,2,3219.0,0.2,North,Net Banking,Returned
+ORD10530,2025-09-27,CUST1092,Microwave,Home & Kitchen,1,6482.0,0.2,West,UPI,Delivered
+ORD10531,2025-10-29,CUST1044,Cookbook,Books,5,531.0,0.1,North,UPI,Delivered
+ORD10532,2025-07-30,CUST1073,Blender,Home & Kitchen,1,7117.0,0.0,South,UPI,Delivered
+ORD10533,2025-10-05,CUST1098,Jacket,Clothing,2,5440.0,0.15,South,Debit Card,Delivered
+ORD10534,2025-04-24,CUST1231,Headphones,Electronics,3,11237.0,0.15,Central,Cash on Delivery,Delivered
+ORD10535,2025-03-27,CUST1016,Comics,Books,1,379.0,0.0,South,UPI,Delivered
+ORD10536,2025-12-22,CUST1148,Office Chair,Furniture,5,13669.0,0.15,West,UPI,Delivered
+ORD10537,2025-01-28,CUST1083,Sofa,Furniture,5,15649.0,0.05,Central,Credit Card,Pending
+ORD10538,2025-10-15,CUST1202,Microwave,Home & Kitchen,1,14347.0,0.0,Central,Net Banking,Delivered
+ORD10539,2025-03-28,CUST1029,Jeans,Clothing,1,2208.0,0.1,North,Debit Card,Delivered
+ORD10540,2025-03-30,CUST1072,Laptop,Electronics,3,42290.0,0.2,,Credit Card,Delivered
+ORD10541,2025-10-15,CUST1075,Comics,Books,4,460.0,0.2,North,UPI,Delivered
+ORD10542,2025-04-21,CUST1119,Desk,Furniture,4,20840.0,0.2,North,Cash on Delivery,Delivered
+ORD10543,2025-04-11,CUST1202,Coffee Table,Furniture,4,5912.0,0.0,North,UPI,Delivered
+ORD10544,2025-02-27,CUST1175,T-Shirt,Clothing,1,459.0,0.0,South,UPI,Delivered
+ORD10545,2025-12-24,CUST1191,Office Chair,Furniture,3,6807.0,0.0,South,Cash on Delivery,Delivered
+ORD10546,2025-09-09,CUST1178,Programming Book,Books,1,1253.0,0.15,East,Net Banking,Pending
+ORD10547,2025-12-15,CUST1027,Jacket,Clothing,1,4573.0,0.05,West,Net Banking,Delivered
+ORD10548,2025-11-03,CUST1160,Office Chair,Furniture,1,4866.0,0.0,North,Net Banking,Delivered
+ORD10549,2025-08-15,CUST1181,Laptop,Electronics,3,58835.0,0.05,West,Debit Card,Delivered
+ORD10550,2025-12-16,CUST1125,T-Shirt,Clothing,2,1753.0,0.15,Central,Debit Card,Delivered
+ORD10551,2025-11-14,CUST1250,Biography,Books,3,457.0,0.05,North,Net Banking,Delivered
+ORD10552,2025-04-28,CUST1018,Smartphone,Electronics,3,13479.0,0.1,North,Cash on Delivery,Cancelled
+ORD10553,2025-06-27,CUST1016,Sneakers,Clothing,3,6125.0,0.05,North,Net Banking,Delivered
+ORD10554,2025-12-21,CUST1109,Monitor,Electronics,2,14158.0,0.0,West,Net Banking,Pending
+ORD10555,2025-02-03,,Jeans,Clothing,5,3117.0,0.1,Central,Debit Card,Delivered
+ORD10556,2025-01-30,CUST1061,Biography,Books,4,429.0,0.0,East,Credit Card,Delivered
+ORD10557,2025-11-26,CUST1131,Jacket,Clothing,5,6393.0,0.05,North,Credit Card,Pending
+ORD10558,2025-06-14,CUST1168,Laptop,Electronics,4,40693.0,0.1,Central,Net Banking,Delivered
+ORD10559,2025-07-11,CUST1030,Microwave,Home & Kitchen,5,10712.0,0.0,Central,UPI,Delivered
+ORD10560,2025-12-08,CUST1121,Jeans,Clothing,3,1890.0,0.1,East,Net Banking,Delivered
+ORD10561,2025-11-12,CUST1150,Office Chair,Furniture,2,8520.0,0.1,North,Credit Card,Delivered
+ORD10562,2025-05-16,CUST1111,Microwave,Home & Kitchen,2,13769.0,0.0,North,Cash on Delivery,Delivered
+ORD10563,2025-09-22,CUST1107,Fiction Novel,Books,2,297.0,0.1,West,UPI,Cancelled
+ORD10564,2025-02-20,CUST1217,Jeans,Clothing,1,3386.0,0.05,East,Cash on Delivery,Delivered
+ORD10565,2025-12-09,CUST1237,Headphones,Electronics,5,8475.0,0.1,East,Debit Card,Delivered
+ORD10566,2025-08-26,CUST1008,Smartphone,Electronics,2,52521.0,0.2,South,Net Banking,Cancelled
+ORD10567,2025-06-24,CUST1162,Monitor,Electronics,1,9534.0,0.15,Central,UPI,Pending
+ORD10568,2025-10-25,CUST1204,Jacket,Clothing,1,6518.0,0.2,East,Debit Card,Delivered
+ORD10569,2025-12-31,,Sneakers,Clothing,4,2256.0,0.15,East,Debit Card,Delivered
+ORD10570,2025-01-24,CUST1197,Sofa,Furniture,3,26604.0,0.15,West,UPI,Pending
+ORD10571,2025-02-10,CUST1101,Biography,Books,2,472.0,0.15,South,UPI,Delivered
+ORD10572,2025-06-06,CUST1206,Keyboard,Electronics,4,4454.0,0.2,West,Debit Card,Delivered
+ORD10573,2025-02-25,CUST1141,Biography,Books,4,411.0,0.0,Central,Credit Card,Delivered
+ORD10574,2025-10-05,CUST1047,Headphones,Electronics,2,7478.0,0.05,North,UPI,Delivered
+ORD10575,2025-09-13,CUST1190,Fiction Novel,Books,1,401.0,0.15,South,Credit Card,Pending
+ORD10576,2025-01-11,CUST1009,Air Fryer,Home & Kitchen,4,10152.0,0.0,North,Cash on Delivery,Pending
+ORD10577,2025-01-29,CUST1198,Fiction Novel,Books,1,742.0,0.0,South,Debit Card,Pending
+ORD10578,2025-02-03,CUST1199,Smartphone,Electronics,4,28715.0,0.15,North,Net Banking,Delivered
+ORD10579,2025-07-03,CUST1112,Sofa,Furniture,5,63339.0,0.1,West,Debit Card,Delivered
+ORD10580,2025-06-06,CUST1228,Sneakers,Clothing,5,4742.0,0.2,North,Cash on Delivery,Delivered
+ORD10581,2025-11-26,CUST1141,Jeans,Clothing,1,2763.0,0.2,East,Net Banking,Delivered
+ORD10582,2025-08-14,CUST1125,Microwave,Home & Kitchen,4,14954.0,0.05,South,Debit Card,Delivered
+ORD10583,2025-07-28,CUST1205,Biography,Books,2,647.0,0.0,South,Net Banking,Delivered
+ORD10584,2025-12-21,CUST1143,Bookshelf,Furniture,5,10615.0,0.1,South,UPI,Delivered
+ORD10585,2025-06-06,CUST1203,Blender,Home & Kitchen,4,5186.0,0.1,West,Net Banking,Delivered
+ORD10586,2025-03-31,CUST1243,Cookbook,Books,1,937.0,0.2,East,Cash on Delivery,Delivered
+ORD10587,2025-10-23,CUST1192,Dress,Clothing,1,2026.0,0.1,East,Debit Card,Pending
+ORD10588,2025-12-28,CUST1109,Headphones,Electronics,4,5066.0,0.1,West,UPI,Delivered
+ORD10589,2025-12-24,CUST1005,Air Fryer,Home & Kitchen,3,9328.0,0.0,North,Debit Card,Delivered
+ORD10590,2025-09-18,CUST1149,Microwave,Home & Kitchen,4,15544.0,0.05,Central,UPI,Delivered
+ORD10591,2025-06-13,CUST1057,Cookbook,Books,3,790.0,0.2,North,Credit Card,Delivered
+ORD10592,2025-03-31,CUST1213,Dress,Clothing,1,5989.0,0.0,East,Cash on Delivery,Delivered
+ORD10593,2025-01-15,CUST1200,Office Chair,Furniture,2,11029.0,0.05,Central,Debit Card,Cancelled
+ORD10594,2025-08-09,,Jacket,Clothing,3,4474.0,0.15,North,Cash on Delivery,Delivered
+ORD10595,2025-01-06,CUST1121,Programming Book,Books,4,1547.0,0.2,East,Cash on Delivery,Delivered
+ORD10596,2025-11-21,CUST1112,Air Fryer,Home & Kitchen,2,5545.0,0.05,South,Credit Card,Delivered
+ORD10597,2025-02-26,CUST1019,Cookware Set,Home & Kitchen,4,3648.0,0.15,North,Net Banking,Pending
+ORD10598,2025-11-25,CUST1201,Bookshelf,Furniture,2,9364.0,0.2,Central,Credit Card,Delivered
+ORD10599,2025-01-23,CUST1083,Microwave,Home & Kitchen,3,9511.0,0.2,South,Cash on Delivery,Delivered
+ORD10600,2025-09-29,CUST1221,Headphones,Electronics,3,11974.0,0.2,South,Cash on Delivery,Delivered
+ORD10601,2025-12-27,CUST1056,Desk,Furniture,1,6730.0,0.1,East,Cash on Delivery,Delivered
+ORD10602,2025-04-02,CUST1057,Smartphone,Electronics,4,26295.0,0.0,South,Net Banking,Delivered
+ORD10603,2025-07-29,CUST1174,T-Shirt,Clothing,5,1647.0,0.15,East,Credit Card,Delivered
+ORD10604,2025-03-31,CUST1070,Desk,Furniture,3,24250.0,0.15,West,Debit Card,Pending
+ORD10605,2025-03-17,CUST1169,Microwave,Home & Kitchen,4,12728.0,0.2,Central,Net Banking,Delivered
+ORD10606,2025-10-10,CUST1104,Monitor,Electronics,3,29199.0,0.1,East,Debit Card,Delivered
+ORD10607,2025-07-04,CUST1134,Blender,Home & Kitchen,2,2908.0,0.2,West,Credit Card,Delivered
+ORD10608,2025-09-03,CUST1189,Vacuum Cleaner,Home & Kitchen,3,8529.0,0.0,South,Credit Card,Delivered
+ORD10609,2025-12-11,CUST1053,Headphones,Electronics,4,10423.0,0.05,Central,Credit Card,Delivered
+ORD10610,2025-11-21,CUST1105,Coffee Table,Furniture,3,2663.0,0.0,West,Cash on Delivery,Delivered
+ORD10611,2025-03-31,CUST1170,Keyboard,Electronics,3,4588.0,0.2,South,Credit Card,Delivered
+ORD10612,2025-02-09,CUST1144,Smartphone,Electronics,5,19458.0,0.05,Central,Credit Card,Delivered
+ORD10613,2025-10-14,CUST1220,Office Chair,Furniture,5,8515.0,0.15,South,Credit Card,Delivered
+ORD10614,2025-01-01,CUST1043,Coffee Table,Furniture,1,2426.0,0.15,Central,Debit Card,Delivered
+ORD10615,2025-05-16,CUST1239,Monitor,Electronics,3,9174.0,0.05,West,Net Banking,Delivered
+ORD10616,2025-10-15,CUST1136,Smartphone,Electronics,4,46816.0,0.0,South,Net Banking,Delivered
+ORD10617,2025-01-15,CUST1108,Bookshelf,Furniture,3,2950.0,0.0,West,Cash on Delivery,Delivered
+ORD10618,2025-01-30,CUST1039,Dress,Clothing,3,4485.0,0.0,West,Credit Card,Delivered
+ORD10619,2025-03-09,CUST1190,Dress,Clothing,4,4724.0,0.2,Central,Cash on Delivery,Delivered
+ORD10620,2025-05-30,CUST1201,Comics,Books,2,608.0,0.15,Central,Cash on Delivery,Delivered
+ORD10621,2025-02-24,CUST1108,Jacket,Clothing,4,4478.0,0.2,West,Cash on Delivery,Pending
+ORD10622,2025-02-06,CUST1190,Cookbook,Books,3,524.0,0.15,East,Cash on Delivery,Cancelled
+ORD10623,2025-09-24,CUST1244,Sneakers,Clothing,5,5844.0,0.0,South,Credit Card,Delivered
+ORD10624,2025-06-19,CUST1048,Vacuum Cleaner,Home & Kitchen,4,13824.0,0.05,North,Cash on Delivery,Delivered
+ORD10625,2025-11-11,CUST1220,Laptop,Electronics,2,74436.0,0.05,,Credit Card,Delivered
+ORD10626,2025-02-27,CUST1188,Monitor,Electronics,4,18765.0,0.1,West,Debit Card,Delivered
+ORD10627,2025-03-28,CUST1042,Desk,Furniture,1,9841.0,0.2,North,Cash on Delivery,Delivered
+ORD10628,2025-06-05,CUST1198,Smartphone,Electronics,5,26424.0,0.0,Central,Debit Card,Delivered
+ORD10629,2025-05-16,CUST1241,Microwave,Home & Kitchen,4,13568.0,0.2,East,Net Banking,Pending
+ORD10630,2025-08-14,CUST1020,Microwave,Home & Kitchen,3,11896.0,0.15,Central,Net Banking,Returned
+ORD10631,2025-06-02,CUST1057,Headphones,Electronics,2,10165.0,0.2,South,Debit Card,Cancelled
+ORD10632,2025-08-15,CUST1175,Biography,Books,5,333.0,0.05,North,Credit Card,Delivered
+ORD10633,2025-02-13,CUST1164,Keyboard,Electronics,1,1191.0,0.1,East,Net Banking,Delivered
+ORD10634,2025-04-10,CUST1052,Office Chair,Furniture,1,7465.0,0.0,North,Credit Card,Delivered
+ORD10635,2025-10-15,CUST1158,Laptop,Electronics,3,43659.0,0.15,West,Cash on Delivery,Pending
+ORD10636,2025-03-22,CUST1016,Dress,Clothing,5,1860.0,0.1,West,Debit Card,Delivered
+ORD10637,2025-10-20,CUST1211,Office Chair,Furniture,1,7557.0,0.15,West,Net Banking,Delivered
+ORD10638,2025-05-15,CUST1137,Jacket,Clothing,3,1961.0,0.15,South,Credit Card,Delivered
+ORD10639,2025-06-04,CUST1156,Cookbook,Books,4,862.0,0.1,West,Debit Card,Delivered
+ORD10640,2025-12-26,CUST1010,Office Chair,Furniture,4,9878.0,0.15,West,Net Banking,Delivered
+ORD10641,2025-01-26,CUST1153,Air Fryer,Home & Kitchen,3,11070.0,0.15,North,Cash on Delivery,Delivered
+ORD10642,2025-01-27,CUST1071,Vacuum Cleaner,Home & Kitchen,3,19109.0,0.05,East,Debit Card,Delivered
+ORD10643,2025-04-07,CUST1055,Coffee Table,Furniture,3,5128.0,0.15,South,Cash on Delivery,Delivered
+ORD10644,2025-10-23,CUST1008,Cookware Set,Home & Kitchen,1,2386.0,0.1,Central,Net Banking,Delivered
+ORD10645,2025-01-02,CUST1065,Biography,Books,2,461.0,0.1,North,Net Banking,Delivered
+ORD10646,2025-10-26,CUST1030,Coffee Table,Furniture,1,3629.0,0.0,East,Cash on Delivery,Delivered
+ORD10647,2025-10-25,CUST1105,Laptop,Electronics,1,87412.0,0.0,South,Net Banking,Cancelled
+ORD10648,2025-03-24,CUST1010,Air Fryer,Home & Kitchen,2,9100.0,0.2,East,Cash on Delivery,Pending
+ORD10649,2025-11-04,CUST1166,Biography,Books,3,415.0,0.0,East,Debit Card,Delivered
+ORD10650,2025-01-14,CUST1101,Comics,Books,4,491.0,0.05,Central,UPI,Delivered
+ORD10651,2025-03-27,CUST1133,Monitor,Electronics,4,25637.0,0.15,North,Credit Card,Delivered
+ORD10652,2025-09-10,CUST1205,Cookware Set,Home & Kitchen,3,8145.0,0.1,North,Debit Card,Delivered
+ORD10653,2025-03-06,CUST1077,Programming Book,Books,3,971.0,0.05,East,Debit Card,Delivered
+ORD10654,2025-11-12,CUST1217,Vacuum Cleaner,Home & Kitchen,3,13610.0,0.05,North,Credit Card,Cancelled
+ORD10655,2025-09-30,CUST1208,Smartphone,Electronics,2,44483.0,0.1,North,UPI,Cancelled
+ORD10656,2025-09-14,CUST1010,Sneakers,Clothing,2,5896.0,0.1,West,Debit Card,Delivered
+ORD10657,2025-10-19,CUST1024,Desk,Furniture,3,17631.0,0.1,South,UPI,Delivered
+ORD10658,2025-03-19,CUST1221,Smartphone,Electronics,5,47282.0,0.0,South,Credit Card,Delivered
+ORD10659,2025-05-03,CUST1240,Comics,Books,1,312.0,0.1,West,Cash on Delivery,Delivered
+ORD10660,2025-02-18,CUST1237,Laptop,Electronics,2,67634.0,0.2,West,UPI,Delivered
+ORD10661,2025-12-28,CUST1069,Bookshelf,Furniture,1,3732.0,0.15,Central,Credit Card,Delivered
+ORD10662,2025-01-26,CUST1036,Sneakers,Clothing,1,2686.0,0.1,West,Cash on Delivery,Delivered
+ORD10663,2025-08-17,CUST1051,Sneakers,Clothing,3,2977.0,0.0,Central,UPI,Delivered
+ORD10664,2025-08-06,CUST1111,Dress,Clothing,2,4329.0,0.0,North,Debit Card,Delivered
+ORD10665,2025-02-18,CUST1117,Desk,Furniture,3,5508.0,0.05,North,Cash on Delivery,Returned
+ORD10666,2025-11-03,CUST1081,Biography,Books,4,525.0,0.0,North,Credit Card,Delivered
+ORD10667,2025-02-18,CUST1046,Keyboard,Electronics,4,2539.0,0.05,West,Net Banking,Delivered
+ORD10668,2025-07-26,CUST1047,Biography,Books,2,406.0,0.1,North,Debit Card,Delivered
+ORD10669,2025-12-30,CUST1044,Smartphone,Electronics,2,47509.0,0.05,North,Cash on Delivery,Delivered
+ORD10670,2025-10-24,CUST1114,Jeans,Clothing,4,2370.0,0.05,Central,UPI,Delivered
+ORD10671,2025-06-04,CUST1226,Keyboard,Electronics,3,1370.0,0.05,West,Net Banking,Cancelled
+ORD10672,2025-08-25,CUST1227,Vacuum Cleaner,Home & Kitchen,4,18259.0,0.1,South,Debit Card,Delivered
+ORD10673,2025-01-23,CUST1099,Jeans,Clothing,5,2365.0,0.0,West,Credit Card,Pending
+ORD10674,2025-07-08,CUST1189,Office Chair,Furniture,5,15413.0,0.1,West,UPI,Cancelled
+ORD10675,2025-05-05,CUST1067,Jacket,Clothing,4,3151.0,0.05,South,Credit Card,Delivered
+ORD10676,2025-06-29,CUST1113,Fiction Novel,Books,1,601.0,0.1,West,Cash on Delivery,Pending
+ORD10677,2025-06-04,CUST1201,Desk,Furniture,1,24022.0,0.05,East,Cash on Delivery,Delivered
+ORD10678,2025-02-19,CUST1198,Headphones,Electronics,2,7365.0,0.0,West,Credit Card,Delivered
+ORD10679,2025-05-28,CUST1162,Comics,Books,4,249.0,0.05,West,Debit Card,Delivered
+ORD10680,2025-06-08,CUST1144,Keyboard,Electronics,3,2330.0,0.15,North,UPI,Delivered
+ORD10681,2025-02-08,CUST1078,Desk,Furniture,2,9758.0,0.15,East,Debit Card,Cancelled
+ORD10682,2025-09-03,CUST1045,T-Shirt,Clothing,1,1264.0,0.0,East,UPI,Delivered
+ORD10683,2025-03-15,CUST1081,Cookware Set,Home & Kitchen,1,3142.0,0.05,South,Debit Card,Delivered
+ORD10684,2025-08-04,CUST1165,Cookware Set,Home & Kitchen,3,8318.0,0.05,East,Debit Card,Delivered
+ORD10685,2025-01-19,CUST1182,Cookbook,Books,5,386.0,0.15,East,Cash on Delivery,Delivered
+ORD10686,2025-08-11,CUST1126,Sofa,Furniture,5,56387.0,0.15,South,Net Banking,Delivered
+ORD10687,2025-07-10,CUST1121,Jeans,Clothing,5,3163.0,0.05,West,Cash on Delivery,Pending
+ORD10688,2025-08-12,CUST1039,Biography,Books,3,500.0,0.2,North,Debit Card,Delivered
+ORD10689,2025-10-13,CUST1157,Cookware Set,Home & Kitchen,4,8342.0,0.15,North,Debit Card,Delivered
+ORD10690,2025-01-29,CUST1214,Jeans,Clothing,1,1049.0,0.1,West,Net Banking,Pending
+ORD10691,2025-01-20,CUST1096,Office Chair,Furniture,4,11170.0,0.0,East,Debit Card,Delivered
+ORD10692,2025-01-29,CUST1104,Laptop,Electronics,4,72973.0,0.1,Central,Credit Card,Delivered
+ORD10693,2025-01-20,CUST1002,Jacket,Clothing,4,4265.0,0.1,East,Cash on Delivery,Delivered
+ORD10694,2025-08-21,CUST1071,Jeans,Clothing,4,1517.0,0.1,East,Cash on Delivery,Delivered
+ORD10695,2025-12-28,CUST1102,T-Shirt,Clothing,4,747.0,0.0,South,Debit Card,Delivered
+ORD10696,2025-04-03,CUST1074,Programming Book,Books,2,1404.0,0.2,West,Net Banking,Delivered
+ORD10697,2025-09-05,CUST1225,Jacket,Clothing,5,6927.0,0.15,North,Net Banking,Delivered
+ORD10698,2025-12-20,CUST1202,Microwave,Home & Kitchen,3,11812.0,0.2,West,UPI,Delivered
+ORD10699,2025-05-31,CUST1181,Keyboard,Electronics,2,2720.0,0.0,Central,Debit Card,Pending
+ORD10700,2025-02-05,CUST1222,Coffee Table,Furniture,5,6153.0,0.0,West,UPI,Delivered
+ORD10701,2025-02-03,CUST1154,Laptop,Electronics,5,79343.0,0.0,North,Net Banking,Delivered
+ORD10702,2025-09-29,CUST1051,Monitor,Electronics,3,8417.0,0.1,West,Net Banking,Delivered
+ORD10703,2025-02-01,CUST1047,Jeans,Clothing,3,1282.0,0.1,North,Net Banking,Delivered
+ORD10704,2025-04-23,CUST1004,Programming Book,Books,3,1374.0,0.0,West,,Delivered
+ORD10705,2025-11-21,CUST1045,Headphones,Electronics,4,10575.0,0.15,Central,Debit Card,Delivered
+ORD10706,2025-05-26,CUST1194,Cookbook,Books,3,329.0,0.15,West,UPI,Delivered
+ORD10707,2025-08-17,CUST1164,Coffee Table,Furniture,3,8946.0,0.1,West,Net Banking,Pending
+ORD10708,2025-06-03,CUST1066,Jacket,Clothing,3,4446.0,0.15,East,Cash on Delivery,Delivered
+ORD10709,2025-04-13,CUST1038,Monitor,Electronics,2,25405.0,0.05,North,UPI,Delivered
+ORD10710,2025-07-24,CUST1117,Vacuum Cleaner,Home & Kitchen,5,6413.0,0.0,East,Cash on Delivery,Delivered
+ORD10711,2025-07-06,CUST1205,Cookbook,Books,3,1099.0,0.05,Central,Net Banking,Delivered
+ORD10712,2025-01-10,CUST1190,Bookshelf,Furniture,3,10248.0,0.15,East,Cash on Delivery,Delivered
+ORD10713,2025-11-17,CUST1011,Vacuum Cleaner,Home & Kitchen,1,22250.0,0.05,East,Debit Card,Pending
+ORD10714,2025-12-23,CUST1089,Bookshelf,Furniture,5,9150.0,0.0,North,Net Banking,Delivered
+ORD10715,2025-12-31,CUST1055,Comics,Books,5,236.0,0.2,East,Cash on Delivery,Delivered
+ORD10716,2025-10-06,CUST1148,Smartphone,Electronics,1,15786.0,0.0,East,Cash on Delivery,Delivered
+ORD10717,2025-04-20,CUST1173,T-Shirt,Clothing,5,1225.0,0.1,Central,Debit Card,Delivered
+ORD10718,2025-03-16,CUST1032,Programming Book,Books,4,923.0,0.0,South,Debit Card,Delivered
+ORD10719,2025-11-18,CUST1200,Fiction Novel,Books,1,576.0,0.1,,Credit Card,Pending
+ORD10720,2025-10-24,CUST1197,Headphones,Electronics,3,7741.0,0.2,North,Cash on Delivery,Delivered
+ORD10721,2025-09-06,CUST1015,Air Fryer,Home & Kitchen,1,10059.0,0.15,Central,Credit Card,Delivered
+ORD10722,2025-03-26,CUST1231,Laptop,Electronics,2,75780.0,0.2,Central,UPI,Cancelled
+ORD10723,2025-09-05,CUST1018,Keyboard,Electronics,1,2633.0,0.2,South,UPI,Delivered
+ORD10724,2025-01-07,CUST1032,Jacket,Clothing,5,6021.0,0.0,West,Debit Card,Delivered
+ORD10725,2025-06-15,CUST1220,Microwave,Home & Kitchen,5,17396.0,0.15,West,Debit Card,Pending
+ORD10726,2025-08-02,CUST1013,Keyboard,Electronics,4,807.0,0.15,East,Cash on Delivery,Delivered
+ORD10727,2025-08-17,CUST1186,Biography,Books,4,454.0,0.1,West,Credit Card,Delivered
+ORD10728,2025-08-07,CUST1030,Air Fryer,Home & Kitchen,5,14767.0,0.15,South,Debit Card,Delivered
+ORD10729,2025-11-18,CUST1030,Monitor,Electronics,1,16935.0,0.05,East,Debit Card,Delivered
+ORD10730,2025-09-24,CUST1049,Jeans,Clothing,3,1423.0,0.15,West,Cash on Delivery,Delivered
+ORD10731,2025-03-21,CUST1118,Sneakers,Clothing,2,3901.0,0.05,North,Cash on Delivery,Cancelled
+ORD10732,2025-02-23,CUST1146,Bookshelf,Furniture,5,3965.0,0.15,East,Credit Card,Delivered
+ORD10733,2025-07-19,CUST1110,Jeans,Clothing,1,2633.0,0.05,West,UPI,Delivered
+ORD10734,2025-10-12,CUST1187,Keyboard,Electronics,4,4003.0,0.15,East,UPI,Delivered
+ORD10735,2025-06-23,CUST1094,Dress,Clothing,3,4059.0,0.2,South,Cash on Delivery,Delivered
+ORD10736,2025-03-24,CUST1038,Sofa,Furniture,4,17614.0,0.15,West,Credit Card,Delivered
+ORD10737,2025-09-05,CUST1128,Dress,Clothing,2,1267.0,0.0,South,Credit Card,Delivered
+ORD10738,2025-04-03,CUST1095,Jeans,Clothing,2,1570.0,0.1,East,UPI,Delivered
+ORD10739,2025-10-21,CUST1226,Smartphone,Electronics,5,13730.0,0.05,Central,Cash on Delivery,Delivered
+ORD10740,2025-05-21,CUST1060,T-Shirt,Clothing,5,1194.0,0.2,South,Credit Card,Delivered
+ORD10741,2025-09-04,CUST1228,Smartphone,Electronics,1,30252.0,0.2,East,UPI,Delivered
+ORD10742,2025-09-25,CUST1006,Bookshelf,Furniture,2,7149.0,0.1,North,Cash on Delivery,Returned
+ORD10743,2025-03-27,CUST1084,Air Fryer,Home & Kitchen,2,11265.0,0.1,West,UPI,Delivered
+ORD10744,2025-08-27,CUST1104,Monitor,Electronics,4,25964.0,0.1,South,,Returned
+ORD10745,2025-05-12,CUST1165,Keyboard,Electronics,3,1181.0,0.0,Central,Cash on Delivery,Delivered
+ORD10746,2025-01-28,CUST1011,Comics,Books,1,303.0,0.15,Central,Debit Card,Delivered
+ORD10747,2025-06-04,CUST1243,Dress,Clothing,4,2341.0,0.2,East,Debit Card,Delivered
+ORD10748,2025-08-13,CUST1071,Vacuum Cleaner,Home & Kitchen,2,9830.0,0.2,South,Net Banking,Delivered
+ORD10749,2025-11-13,CUST1213,Sofa,Furniture,5,41681.0,0.1,South,Cash on Delivery,Delivered
+ORD10750,2025-01-09,CUST1124,Office Chair,Furniture,5,8685.0,0.1,South,Cash on Delivery,Delivered
+ORD10751,2025-10-15,CUST1116,Monitor,Electronics,4,17465.0,0.15,North,UPI,Delivered
+ORD10752,2025-02-15,CUST1081,Coffee Table,Furniture,2,3501.0,0.15,West,Debit Card,Delivered
+ORD10753,2025-03-25,CUST1076,Comics,Books,3,217.0,0.0,West,Debit Card,Delivered
+ORD10754,2025-07-18,CUST1104,Air Fryer,Home & Kitchen,4,6698.0,0.0,Central,Net Banking,Pending
+ORD10755,2025-12-19,CUST1171,Blender,Home & Kitchen,1,5126.0,0.15,Central,Credit Card,Delivered
+ORD10756,2025-11-09,CUST1121,Vacuum Cleaner,Home & Kitchen,4,11342.0,0.15,East,Debit Card,Delivered
+ORD10757,2025-02-06,CUST1092,Cookware Set,Home & Kitchen,4,8033.0,0.0,Central,UPI,Delivered
+ORD10758,2025-07-11,CUST1069,Cookbook,Books,1,744.0,0.05,West,Cash on Delivery,Delivered
+ORD10759,2025-06-23,CUST1171,Cookware Set,Home & Kitchen,2,3843.0,0.0,South,UPI,Delivered
+ORD10760,2025-07-09,CUST1182,Office Chair,Furniture,5,14319.0,0.15,South,UPI,Delivered
+ORD10761,2025-11-16,CUST1204,Comics,Books,1,283.0,0.05,North,UPI,Delivered
+ORD10762,2025-12-03,CUST1144,Microwave,Home & Kitchen,4,6445.0,0.1,East,Credit Card,Pending
+ORD10763,2025-11-04,CUST1048,Monitor,Electronics,3,15376.0,0.2,South,Cash on Delivery,Delivered
+ORD10764,2025-08-30,CUST1198,Jacket,Clothing,4,2191.0,0.15,Central,Cash on Delivery,Returned
+ORD10765,2025-06-05,CUST1229,Cookware Set,Home & Kitchen,1,7338.0,0.1,North,Net Banking,Cancelled
+ORD10766,2025-01-13,CUST1051,Keyboard,Electronics,5,2735.0,0.15,East,Credit Card,Returned
+ORD10767,2025-01-05,CUST1100,Jeans,Clothing,5,1453.0,0.05,East,Net Banking,Cancelled
+ORD10768,2025-09-30,CUST1081,Programming Book,Books,2,1330.0,0.15,Central,Cash on Delivery,Delivered
+ORD10769,2025-06-07,CUST1076,Laptop,Electronics,1,88530.0,0.2,North,Net Banking,Delivered
+ORD10770,2025-06-23,CUST1138,Bookshelf,Furniture,3,5224.0,0.0,East,Debit Card,Delivered
+ORD10771,2025-12-03,CUST1225,Monitor,Electronics,4,28588.0,0.15,East,UPI,Delivered
+ORD10772,2025-03-07,CUST1067,Air Fryer,Home & Kitchen,3,7640.0,0.0,South,Credit Card,Delivered
+ORD10773,2025-12-17,CUST1014,Bookshelf,Furniture,4,5077.0,0.15,Central,Credit Card,Delivered
+ORD10774,2025-02-15,CUST1001,Keyboard,Electronics,3,1494.0,0.05,North,Debit Card,Delivered
+ORD10775,2025-03-12,CUST1054,Bookshelf,Furniture,4,11951.0,0.2,West,Credit Card,Delivered
+ORD10776,2025-09-06,CUST1032,Cookware Set,Home & Kitchen,3,7579.0,0.0,West,Debit Card,Pending
+ORD10777,2025-06-14,CUST1039,Fiction Novel,Books,5,263.0,0.1,South,Net Banking,Cancelled
+ORD10778,2025-02-08,CUST1103,T-Shirt,Clothing,3,515.0,0.1,West,Cash on Delivery,Delivered
+ORD10779,2025-06-13,CUST1077,Cookbook,Books,4,546.0,0.0,Central,UPI,Delivered
+ORD10780,2025-05-30,CUST1034,Vacuum Cleaner,Home & Kitchen,1,7845.0,0.0,West,UPI,Pending
+ORD10781,2025-05-04,CUST1185,Comics,Books,2,175.0,,West,Cash on Delivery,Delivered
+ORD10782,2025-10-10,CUST1183,Desk,Furniture,3,13515.0,0.2,North,Debit Card,Delivered
+ORD10783,2025-05-20,CUST1168,Vacuum Cleaner,Home & Kitchen,3,22091.0,0.05,East,Debit Card,Delivered
+ORD10784,2025-12-24,CUST1112,Dress,Clothing,3,4924.0,0.2,West,Credit Card,Delivered
+ORD10785,2025-07-02,CUST1107,Keyboard,Electronics,5,1836.0,0.0,East,UPI,Delivered
+ORD10786,2025-06-09,CUST1226,Cookware Set,Home & Kitchen,2,3570.0,0.15,East,Debit Card,Delivered
+ORD10787,2025-05-07,CUST1038,Bookshelf,Furniture,1,8109.0,0.1,East,Debit Card,Delivered
+ORD10788,2025-10-08,CUST1085,Coffee Table,Furniture,4,6900.0,0.0,West,Cash on Delivery,Delivered
+ORD10789,2025-05-28,CUST1230,Sneakers,Clothing,1,4575.0,0.05,North,Credit Card,Delivered
+ORD10790,2025-03-10,CUST1013,Programming Book,Books,4,1457.0,0.15,South,UPI,Delivered
+ORD10791,2025-05-14,CUST1072,Laptop,Electronics,3,47410.0,0.15,East,UPI,Delivered
+ORD10792,2025-12-02,CUST1028,Jacket,Clothing,2,5009.0,0.2,Central,UPI,Delivered
+ORD10793,2025-03-19,CUST1137,Office Chair,Furniture,5,10497.0,0.2,East,Debit Card,Returned
+ORD10794,2025-11-11,CUST1126,Keyboard,Electronics,2,4695.0,0.1,East,Cash on Delivery,Delivered
+ORD10795,2025-02-01,CUST1143,Sneakers,Clothing,3,3543.0,0.15,West,Credit Card,Delivered
+ORD10796,2025-01-07,CUST1112,Jeans,Clothing,4,1993.0,0.0,Central,UPI,Delivered
+ORD10797,2025-10-09,CUST1164,Jacket,Clothing,4,2226.0,0.05,East,Credit Card,Returned
+ORD10798,2025-12-13,CUST1218,Programming Book,Books,2,1240.0,0.2,North,Credit Card,Delivered
+ORD10799,2025-10-25,CUST1005,Laptop,Electronics,3,72651.0,0.1,West,Credit Card,Cancelled
+ORD10800,2025-06-12,CUST1120,Desk,Furniture,5,7810.0,0.0,West,Cash on Delivery,Delivered
+ORD10801,2025-04-26,CUST1116,T-Shirt,Clothing,3,691.0,0.0,East,Cash on Delivery,Delivered
+ORD10802,2025-05-29,CUST1145,Sofa,Furniture,3,44735.0,0.1,North,Debit Card,Delivered
+ORD10803,2025-01-11,CUST1004,Jeans,Clothing,4,3352.0,0.1,South,Credit Card,Delivered
+ORD10804,2025-06-14,CUST1069,Dress,Clothing,2,3851.0,0.15,East,Net Banking,Delivered
+ORD10805,2025-12-22,CUST1104,Desk,Furniture,5,12445.0,0.0,Central,Net Banking,Cancelled
+ORD10806,2025-08-10,CUST1186,T-Shirt,Clothing,1,818.0,0.15,North,Credit Card,Pending
+ORD10807,2025-10-28,CUST1040,Headphones,Electronics,5,920.0,0.0,North,Cash on Delivery,Delivered
+ORD10808,2025-01-03,CUST1076,Sofa,Furniture,2,36454.0,0.05,East,UPI,Delivered
+ORD10809,2025-05-16,CUST1183,Monitor,Electronics,1,24835.0,0.05,North,Cash on Delivery,Delivered
+ORD10810,2025-09-08,CUST1158,Laptop,Electronics,3,87227.0,0.1,West,UPI,Delivered
+ORD10811,2025-12-08,CUST1194,T-Shirt,Clothing,2,1641.0,0.05,Central,Net Banking,Delivered
+ORD10812,2025-12-02,CUST1159,Desk,Furniture,2,8995.0,0.1,South,Debit Card,Delivered
+ORD10813,2025-04-17,CUST1139,Microwave,Home & Kitchen,4,13014.0,0.1,West,Credit Card,Delivered
+ORD10814,2025-12-04,CUST1150,Coffee Table,Furniture,3,4908.0,0.0,West,Net Banking,Delivered
+ORD10815,2025-02-09,CUST1174,Fiction Novel,Books,5,707.0,0.0,Central,Credit Card,Returned
+ORD10816,2025-07-10,CUST1068,Keyboard,Electronics,3,1762.0,0.1,West,Net Banking,Delivered
+ORD10817,2025-09-18,CUST1199,Keyboard,Electronics,4,2779.0,0.2,West,Debit Card,Delivered
+ORD10818,2025-12-28,CUST1144,Keyboard,Electronics,1,4453.0,0.15,South,Cash on Delivery,Delivered
+ORD10819,2025-03-21,CUST1117,Cookware Set,Home & Kitchen,4,3360.0,0.0,North,Credit Card,Cancelled
+ORD10820,2025-02-13,CUST1167,Office Chair,Furniture,2,15316.0,0.15,East,Cash on Delivery,Delivered
+ORD10821,2025-07-28,CUST1220,Sofa,Furniture,4,23047.0,0.05,West,,Delivered
+ORD10822,2025-05-13,CUST1072,Monitor,Electronics,2,18154.0,0.15,East,Net Banking,Delivered
+ORD10823,2025-08-24,CUST1039,Microwave,Home & Kitchen,3,9011.0,0.15,West,Credit Card,Delivered
+ORD10824,2025-05-20,CUST1014,Jacket,Clothing,2,2777.0,0.2,South,Debit Card,Returned
+ORD10825,2025-06-23,CUST1196,Jacket,Clothing,1,5964.0,0.1,Central,Net Banking,Delivered
+ORD10826,2025-11-17,CUST1246,Smartphone,Electronics,4,55026.0,0.05,West,Credit Card,Delivered
+ORD10827,2025-09-03,CUST1179,Biography,Books,1,408.0,0.05,South,UPI,Delivered
+ORD10828,2025-05-06,CUST1003,Jacket,Clothing,2,3067.0,0.05,North,Credit Card,Delivered
+ORD10829,2025-10-23,CUST1018,Monitor,Electronics,3,21288.0,0.15,North,Credit Card,Pending
+ORD10830,2025-07-07,CUST1053,Jacket,Clothing,1,3942.0,0.1,West,Cash on Delivery,Cancelled
+ORD10831,2025-10-19,CUST1041,Cookbook,Books,4,501.0,0.05,South,Credit Card,Delivered
+ORD10832,2025-04-02,CUST1026,Jacket,Clothing,2,2786.0,0.2,East,UPI,Pending
+ORD10833,2025-04-27,CUST1056,Cookware Set,Home & Kitchen,4,4358.0,0.1,Central,UPI,Delivered
+ORD10834,2025-07-09,CUST1166,Bookshelf,Furniture,2,8345.0,0.05,South,Net Banking,Delivered
+ORD10835,2025-09-08,CUST1163,Monitor,Electronics,4,17110.0,0.15,Central,Net Banking,Delivered
+ORD10836,2025-12-20,CUST1182,Monitor,Electronics,1,19231.0,0.05,West,UPI,Delivered
+ORD10837,2025-12-17,CUST1110,Sneakers,Clothing,3,5150.0,0.15,East,Cash on Delivery,Pending
+ORD10838,2025-04-30,CUST1153,Biography,Books,2,659.0,0.15,West,Debit Card,Delivered
+ORD10839,2025-11-07,CUST1213,Jacket,Clothing,1,1932.0,0.0,North,UPI,Delivered
+ORD10840,2025-10-08,CUST1048,Jeans,Clothing,2,1494.0,0.2,East,Cash on Delivery,Delivered
+ORD10841,2025-07-22,CUST1100,Smartphone,Electronics,1,20743.0,0.05,East,Credit Card,Returned
+ORD10842,2025-08-22,CUST1246,Keyboard,Electronics,5,4238.0,0.0,Central,Credit Card,Delivered
+ORD10843,2025-07-20,CUST1069,Sneakers,Clothing,3,2402.0,0.2,North,Debit Card,Delivered
+ORD10844,2025-09-22,CUST1041,Jacket,Clothing,3,2088.0,0.0,Central,Credit Card,Delivered
+ORD10845,2025-01-16,CUST1090,Programming Book,Books,5,1143.0,0.15,South,Credit Card,Delivered
+ORD10846,2025-12-10,CUST1127,Bookshelf,Furniture,2,5764.0,0.1,East,Cash on Delivery,Delivered
+ORD10847,2025-11-30,CUST1180,Jacket,Clothing,1,2577.0,0.05,Central,UPI,Delivered
+ORD10848,2025-01-30,CUST1104,Desk,Furniture,5,5083.0,0.2,East,Net Banking,Delivered
+ORD10849,2025-01-07,CUST1190,Comics,Books,5,310.0,0.1,Central,Credit Card,Delivered
+ORD10850,2025-11-25,CUST1161,Fiction Novel,Books,1,533.0,,West,Cash on Delivery,Pending
+ORD10851,2025-11-17,CUST1154,Dress,Clothing,4,2614.0,0.0,West,Cash on Delivery,Delivered
+ORD10852,2025-09-08,CUST1210,Keyboard,Electronics,3,1796.0,0.1,South,UPI,Delivered
+ORD10853,2025-01-10,CUST1232,Microwave,Home & Kitchen,1,17233.0,0.0,North,Net Banking,Delivered
+ORD10854,2025-07-24,CUST1077,Headphones,Electronics,4,6469.0,0.15,North,Debit Card,Delivered
+ORD10855,2025-02-15,CUST1054,Jacket,Clothing,4,2017.0,0.1,West,Cash on Delivery,Returned
+ORD10856,2025-05-01,CUST1120,Coffee Table,Furniture,4,3401.0,0.05,South,Cash on Delivery,Delivered
+ORD10857,2025-05-05,CUST1211,Smartphone,Electronics,5,14313.0,,West,Net Banking,Delivered
+ORD10858,2025-04-28,CUST1209,Sofa,Furniture,2,61472.0,0.05,North,Cash on Delivery,Delivered
+ORD10859,2025-02-23,CUST1022,Cookbook,Books,1,549.0,0.15,Central,Debit Card,Delivered
+ORD10860,2025-07-12,CUST1148,Smartphone,Electronics,3,12216.0,0.05,South,Debit Card,Delivered
+ORD10861,2025-11-13,CUST1104,Biography,Books,3,861.0,0.0,West,Net Banking,Delivered
+ORD10862,2025-11-18,CUST1083,Desk,Furniture,2,19672.0,0.0,West,Net Banking,Delivered
+ORD10863,2025-11-22,CUST1013,Air Fryer,Home & Kitchen,4,4515.0,0.0,South,UPI,Delivered
+ORD10864,2025-07-21,CUST1097,Dress,Clothing,3,3736.0,0.15,East,UPI,Delivered
+ORD10865,2025-09-24,CUST1133,Laptop,Electronics,2,82640.0,0.0,East,Cash on Delivery,Delivered
+ORD10866,2025-03-02,CUST1169,Jeans,Clothing,4,2704.0,0.0,North,Cash on Delivery,Returned
+ORD10867,2025-03-18,CUST1136,Jeans,Clothing,4,1860.0,0.15,Central,Credit Card,Delivered
+ORD10868,2025-08-22,CUST1005,Smartphone,Electronics,2,38632.0,0.0,Central,UPI,Cancelled
+ORD10869,2025-11-14,CUST1062,Monitor,Electronics,5,8683.0,0.1,North,Cash on Delivery,Cancelled
+ORD10870,2025-08-11,CUST1010,Bookshelf,Furniture,2,6763.0,0.05,South,Credit Card,Delivered
+ORD10871,2025-06-08,CUST1026,Smartphone,Electronics,5,44530.0,0.0,East,Debit Card,Delivered
+ORD10872,2025-02-03,CUST1059,Laptop,Electronics,2,35244.0,0.0,Central,Cash on Delivery,Cancelled
+ORD10873,2025-08-05,CUST1157,Desk,Furniture,4,12505.0,0.15,West,UPI,Delivered
+ORD10874,2025-12-22,CUST1074,Sneakers,Clothing,2,5736.0,0.0,North,Credit Card,Delivered
+ORD10875,2025-06-02,CUST1051,Dress,Clothing,1,4335.0,0.1,East,UPI,Pending
+ORD10876,2025-01-15,CUST1202,Sneakers,Clothing,2,1966.0,0.05,East,Net Banking,Pending
+ORD10877,2025-07-09,CUST1049,Jeans,Clothing,5,2057.0,0.1,Central,Net Banking,Delivered
+ORD10878,2025-04-04,CUST1013,Keyboard,Electronics,5,4486.0,0.05,West,Credit Card,Pending
+ORD10879,2025-08-28,CUST1219,Fiction Novel,Books,3,494.0,0.2,East,Cash on Delivery,Pending
+ORD10880,2025-12-06,CUST1180,Coffee Table,Furniture,5,8052.0,0.1,West,UPI,Delivered
+ORD10881,2025-03-07,CUST1095,Programming Book,Books,5,858.0,0.2,Central,UPI,Delivered
+ORD10882,2025-07-03,CUST1153,Vacuum Cleaner,Home & Kitchen,5,16097.0,0.05,West,Credit Card,Delivered
+ORD10883,2025-12-27,CUST1146,Programming Book,Books,5,1352.0,0.15,South,Cash on Delivery,Delivered
+ORD10884,2025-01-27,CUST1154,Coffee Table,Furniture,4,2740.0,0.1,West,Net Banking,Delivered
+ORD10885,2025-08-02,CUST1074,Smartphone,Electronics,1,48669.0,0.2,Central,UPI,Delivered
+ORD10886,2025-04-15,CUST1160,Coffee Table,Furniture,5,4007.0,0.05,West,Credit Card,Delivered
+ORD10887,2025-10-06,CUST1083,Laptop,Electronics,1,85487.0,0.1,East,UPI,Delivered
+ORD10888,2025-07-14,CUST1037,Programming Book,Books,2,505.0,0.0,Central,Net Banking,Cancelled
+ORD10889,2025-04-06,CUST1186,T-Shirt,Clothing,3,881.0,0.15,South,Credit Card,Delivered
+ORD10890,2025-09-20,CUST1167,Desk,Furniture,2,20288.0,0.15,South,Cash on Delivery,Delivered
+ORD10891,2025-09-16,CUST1146,Sofa,Furniture,4,17117.0,0.2,Central,Credit Card,Delivered
+ORD10892,2025-10-06,CUST1051,Vacuum Cleaner,Home & Kitchen,1,19975.0,0.15,East,Cash on Delivery,Delivered
+ORD10893,2025-04-18,CUST1233,Vacuum Cleaner,Home & Kitchen,4,18019.0,0.2,West,Debit Card,Delivered
+ORD10894,2025-01-12,CUST1020,Desk,Furniture,3,21201.0,0.15,Central,UPI,Cancelled
+ORD10895,2025-05-22,CUST1197,Biography,Books,2,869.0,0.1,North,Cash on Delivery,Delivered
+ORD10896,2025-08-04,CUST1150,Headphones,Electronics,5,11967.0,0.0,North,Net Banking,Delivered
+ORD10897,2025-08-03,CUST1208,Sofa,Furniture,1,51079.0,0.05,South,Credit Card,Delivered
+ORD10898,2025-01-21,CUST1195,Air Fryer,Home & Kitchen,2,6078.0,0.05,West,UPI,Delivered
+ORD10899,2025-06-09,CUST1097,Jeans,Clothing,2,3326.0,0.1,Central,Cash on Delivery,Delivered
+ORD10900,2025-04-20,CUST1082,Sneakers,Clothing,2,4587.0,0.05,South,Net Banking,Delivered
+ORD10901,2025-09-26,CUST1037,Microwave,Home & Kitchen,4,8414.0,0.05,North,Debit Card,Delivered
+ORD10902,2025-07-03,CUST1205,Office Chair,Furniture,4,5869.0,0.05,Central,Credit Card,Delivered
+ORD10903,2025-04-20,CUST1118,Bookshelf,Furniture,4,4293.0,0.15,South,UPI,Cancelled
+ORD10904,2025-12-31,CUST1123,Laptop,Electronics,5,54437.0,0.05,West,Net Banking,Delivered
+ORD10905,2025-04-19,CUST1205,Fiction Novel,Books,5,587.0,0.2,West,Cash on Delivery,Delivered
+ORD10906,2025-04-26,CUST1107,Office Chair,Furniture,5,9922.0,0.15,South,Net Banking,Delivered
+ORD10907,2025-10-05,CUST1039,Cookware Set,Home & Kitchen,1,3270.0,0.2,North,UPI,Pending
+ORD10908,2025-06-23,CUST1068,Blender,Home & Kitchen,2,6302.0,0.2,South,Cash on Delivery,Delivered
+ORD10909,2025-01-15,CUST1144,Sneakers,Clothing,1,4842.0,0.0,East,Net Banking,Delivered
+ORD10910,2025-01-07,CUST1162,Cookbook,Books,1,777.0,0.0,East,UPI,Delivered
+ORD10911,2025-10-02,CUST1185,Vacuum Cleaner,Home & Kitchen,1,7214.0,0.0,South,UPI,Pending
+ORD10912,2025-09-03,CUST1025,Cookware Set,Home & Kitchen,5,2818.0,0.1,South,Net Banking,Delivered
+ORD10913,2025-01-21,CUST1033,Cookbook,Books,5,487.0,0.15,Central,Credit Card,Delivered
+ORD10914,2025-02-02,CUST1001,Sneakers,Clothing,4,8992.0,0.0,South,Credit Card,Delivered
+ORD10915,2025-10-27,CUST1036,Programming Book,Books,4,1682.0,0.2,West,Debit Card,Delivered
+ORD10916,2025-11-02,CUST1081,Coffee Table,Furniture,5,7306.0,0.05,East,Cash on Delivery,Delivered
+ORD10917,2025-07-21,CUST1064,Programming Book,Books,2,863.0,0.0,Central,UPI,Delivered
+ORD10918,2025-07-13,CUST1091,Headphones,Electronics,2,7812.0,0.2,North,UPI,Delivered
+ORD10919,2025-09-01,CUST1135,Blender,Home & Kitchen,3,5345.0,0.0,North,Debit Card,Delivered
+ORD10920,2025-06-26,CUST1049,Smartphone,Electronics,4,68905.0,0.0,East,UPI,Delivered
+ORD10921,2025-06-14,CUST1169,Jeans,Clothing,2,1623.0,0.1,North,Credit Card,Cancelled
+ORD10922,2025-11-19,CUST1203,Office Chair,Furniture,1,6373.0,0.2,West,Credit Card,Pending
+ORD10923,2025-05-18,CUST1189,Dress,Clothing,3,2864.0,0.2,East,Credit Card,Delivered
+ORD10924,2025-08-31,CUST1138,Sofa,Furniture,1,15052.0,0.2,North,Debit Card,Delivered
+ORD10925,2025-09-16,CUST1156,Jacket,Clothing,1,3308.0,0.2,West,Net Banking,Delivered
+ORD10926,2025-08-14,CUST1045,Coffee Table,Furniture,2,2514.0,0.05,South,Net Banking,Pending
+ORD10927,2025-04-17,CUST1038,Bookshelf,Furniture,2,5662.0,0.15,South,Cash on Delivery,Delivered
+ORD10928,2025-10-03,CUST1062,Smartphone,Electronics,5,22131.0,0.2,West,Net Banking,Delivered
+ORD10929,2025-10-24,CUST1005,Headphones,Electronics,1,10648.0,0.0,West,Debit Card,Pending
+ORD10930,2025-08-06,CUST1170,Office Chair,Furniture,1,5358.0,0.2,South,Cash on Delivery,Delivered
+ORD10931,2025-12-14,CUST1180,Cookware Set,Home & Kitchen,3,4569.0,0.05,West,Net Banking,Cancelled
+ORD10932,2025-12-10,CUST1154,T-Shirt,Clothing,3,812.0,0.1,East,Debit Card,Pending
+ORD10933,2025-03-30,CUST1159,Jacket,Clothing,5,1849.0,0.1,West,Cash on Delivery,Delivered
+ORD10934,2025-05-31,CUST1017,Jacket,Clothing,5,4270.0,0.1,South,Cash on Delivery,Cancelled
+ORD10935,2025-06-23,CUST1150,Jacket,Clothing,1,4694.0,0.0,East,Debit Card,Delivered
+ORD10936,2025-12-04,CUST1163,Headphones,Electronics,4,8762.0,0.05,East,Net Banking,Delivered
+ORD10937,2025-12-24,CUST1018,T-Shirt,Clothing,5,1570.0,0.15,West,Debit Card,Delivered
+ORD10938,2025-11-17,CUST1152,T-Shirt,Clothing,5,1260.0,0.0,South,Net Banking,Delivered
+ORD10939,2025-09-22,CUST1045,Monitor,Electronics,2,13984.0,0.1,Central,Debit Card,Delivered
+ORD10940,2025-02-09,CUST1178,Headphones,Electronics,3,8290.0,0.05,East,UPI,Delivered
+ORD10941,2025-01-20,CUST1094,Office Chair,Furniture,4,15056.0,0.15,South,Net Banking,Delivered
+ORD10942,2025-04-13,CUST1046,Dress,Clothing,5,1590.0,0.1,Central,Cash on Delivery,Delivered
+ORD10943,2025-12-17,CUST1051,T-Shirt,Clothing,2,904.0,0.05,West,Cash on Delivery,Pending
+ORD10944,2025-07-11,CUST1004,Monitor,Electronics,4,24175.0,0.1,South,Debit Card,Delivered
+ORD10945,2025-08-07,CUST1223,Keyboard,Electronics,5,3632.0,0.05,South,Net Banking,Pending
+ORD10946,2025-08-19,CUST1138,Jacket,Clothing,4,6318.0,0.05,South,Debit Card,Cancelled
+ORD10947,2025-05-21,CUST1093,Keyboard,Electronics,2,3101.0,0.15,Central,Cash on Delivery,Delivered
+ORD10948,2025-10-31,CUST1004,Monitor,Electronics,5,20433.0,0.1,West,UPI,Delivered
+ORD10949,2025-02-01,CUST1027,Blender,Home & Kitchen,2,7299.0,0.1,South,Debit Card,Pending
+ORD10950,2025-08-02,CUST1226,Blender,Home & Kitchen,1,3392.0,0.0,West,Cash on Delivery,Delivered
+ORD10951,2025-12-17,CUST1190,Blender,Home & Kitchen,5,2131.0,0.0,West,Debit Card,Delivered
+ORD10952,2025-08-15,CUST1155,Biography,Books,4,796.0,0.0,East,Net Banking,Delivered
+ORD10953,2025-05-27,CUST1050,Comics,Books,4,528.0,0.0,East,Cash on Delivery,Returned
+ORD10954,2025-05-01,CUST1017,Keyboard,Electronics,4,951.0,0.15,South,UPI,Cancelled
+ORD10955,2025-12-30,CUST1081,Vacuum Cleaner,Home & Kitchen,4,22632.0,0.15,East,Cash on Delivery,Delivered
+ORD10956,2025-10-07,CUST1224,Bookshelf,Furniture,1,10921.0,0.15,West,UPI,Cancelled
+ORD10957,2025-03-03,CUST1096,Dress,Clothing,1,4407.0,0.2,South,Net Banking,Delivered
+ORD10958,2025-07-04,CUST1017,Microwave,Home & Kitchen,2,16764.0,0.15,North,UPI,Cancelled
+ORD10959,2025-10-04,CUST1096,Fiction Novel,Books,2,781.0,0.0,South,Net Banking,Delivered
+ORD10960,2025-10-01,CUST1124,Smartphone,Electronics,2,47350.0,0.0,East,Credit Card,Delivered
+ORD10961,2025-05-06,CUST1233,Smartphone,Electronics,2,64832.0,0.15,Central,Debit Card,Delivered
+ORD10962,2025-10-31,CUST1187,Coffee Table,Furniture,4,6931.0,0.05,Central,Cash on Delivery,Pending
+ORD10963,2025-05-14,CUST1010,Keyboard,Electronics,2,2872.0,0.05,West,Net Banking,Delivered
+ORD10964,2025-11-11,CUST1249,Air Fryer,Home & Kitchen,2,4963.0,0.2,North,Debit Card,Pending
+ORD10965,2025-12-21,CUST1204,Laptop,Electronics,5,75566.0,0.2,West,Cash on Delivery,Delivered
+ORD10966,2025-03-04,CUST1029,Blender,Home & Kitchen,2,5990.0,0.0,Central,Net Banking,Delivered
+ORD10967,2025-07-28,CUST1100,Sneakers,Clothing,3,8305.0,0.15,Central,Debit Card,Delivered
+ORD10968,2025-05-04,CUST1182,Vacuum Cleaner,Home & Kitchen,4,16287.0,0.1,Central,Net Banking,Pending
+ORD10969,2025-10-12,CUST1019,Smartphone,Electronics,5,55787.0,0.1,West,Net Banking,Delivered
+ORD10970,2025-06-02,CUST1051,Sneakers,Clothing,2,7454.0,0.05,South,Credit Card,Delivered
+ORD10971,2025-02-11,CUST1044,Microwave,Home & Kitchen,3,16147.0,0.15,East,Credit Card,Delivered
+ORD10972,2025-07-09,CUST1198,Vacuum Cleaner,Home & Kitchen,2,9963.0,0.1,South,Net Banking,Delivered
+ORD10973,2025-03-26,CUST1025,Desk,Furniture,4,17721.0,0.1,Central,Cash on Delivery,Delivered
+ORD10974,2025-12-09,CUST1084,T-Shirt,Clothing,2,677.0,0.05,West,Credit Card,Delivered
+ORD10975,2025-11-16,CUST1055,T-Shirt,Clothing,4,1645.0,0.2,West,UPI,Pending
+ORD10976,2025-12-17,CUST1063,Comics,Books,1,625.0,0.0,East,UPI,Pending
+ORD10977,2025-12-08,CUST1064,Sneakers,Clothing,3,5353.0,0.1,East,Net Banking,Delivered
+ORD10978,2025-07-31,CUST1084,Sneakers,Clothing,5,7008.0,0.15,South,Cash on Delivery,Delivered
+ORD10979,2025-07-23,CUST1073,Smartphone,Electronics,4,23318.0,0.15,East,UPI,Delivered
+ORD10980,2025-06-10,CUST1045,Laptop,Electronics,3,61278.0,0.15,North,Net Banking,Delivered
+ORD10981,2025-09-17,CUST1240,Desk,Furniture,3,8693.0,0.15,South,Debit Card,Delivered
+ORD10982,2025-12-17,CUST1022,Bookshelf,Furniture,4,4001.0,0.2,North,Cash on Delivery,Delivered
+ORD10983,2025-09-13,CUST1195,Jacket,Clothing,3,6207.0,0.0,South,UPI,Pending
+ORD10984,2025-07-17,CUST1007,Dress,Clothing,2,1493.0,0.2,West,UPI,Pending
+ORD10985,2025-02-19,CUST1156,Jeans,Clothing,3,3204.0,0.15,East,Credit Card,Delivered
+ORD10986,2025-07-21,CUST1069,Biography,Books,3,318.0,0.1,West,Credit Card,Delivered
+ORD10987,2025-03-30,CUST1074,Air Fryer,Home & Kitchen,4,12549.0,0.2,East,Debit Card,Delivered
+ORD10988,2025-06-24,CUST1043,Air Fryer,Home & Kitchen,2,7326.0,0.1,East,Cash on Delivery,Pending
+ORD10989,2025-08-22,CUST1062,Programming Book,Books,1,512.0,0.2,Central,Credit Card,Delivered
+ORD10990,2025-07-27,CUST1099,Desk,Furniture,1,15606.0,0.05,West,Net Banking,Pending
+ORD10991,2025-05-17,CUST1205,Vacuum Cleaner,Home & Kitchen,4,16887.0,0.0,Central,UPI,Delivered
+ORD10992,2025-10-09,CUST1164,Headphones,Electronics,3,8275.0,0.05,Central,Credit Card,Delivered
+ORD10993,2025-03-18,CUST1161,Dress,Clothing,3,1418.0,0.1,Central,Debit Card,Delivered
+ORD10994,2025-01-30,CUST1039,Microwave,Home & Kitchen,5,9706.0,0.0,Central,Debit Card,Delivered
+ORD10995,2025-02-20,CUST1072,Microwave,Home & Kitchen,1,8888.0,0.15,South,Net Banking,Pending
+ORD10996,2025-06-23,CUST1249,Desk,Furniture,4,4982.0,0.1,North,Cash on Delivery,Delivered
+ORD10997,2025-01-05,CUST1167,Microwave,Home & Kitchen,5,10139.0,0.0,Central,Debit Card,Delivered
+ORD10998,2025-09-05,CUST1092,Vacuum Cleaner,Home & Kitchen,4,11731.0,0.15,East,UPI,Delivered
+ORD10999,2025-06-26,CUST1172,Comics,Books,4,416.0,0.0,West,Cash on Delivery,Cancelled
+ORD11000,2025-12-08,CUST1204,T-Shirt,Clothing,4,926.0,0.1,North,Cash on Delivery,Pending
+ORD10522,2025-09-25,CUST1236,Jeans,Clothing,4,1321.0,0.15,North,Debit Card,Cancelled
+ORD10738,2025-04-03,CUST1095,Jeans,Clothing,2,1570.0,0.1,East,UPI,Delivered
+ORD10741,2025-09-04,CUST1228,Smartphone,Electronics,1,30252.0,0.2,East,UPI,Delivered
+ORD10661,2025-12-28,CUST1069,Bookshelf,Furniture,1,3732.0,0.15,Central,Credit Card,Delivered
+ORD10412,2025-04-18,CUST1085,Microwave,Home & Kitchen,5,13122.0,0.1,West,Debit Card,Pending
